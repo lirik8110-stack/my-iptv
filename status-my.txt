@@ -1,6 +1,6 @@
 файл: playlist-my.m3u
-обновлено: 2026-09-30 23:02 UTC
-каналов: 94
+обновлено: 2026-09-30 23:35 UTC
+каналов: 93
 
 источники:
 ok     1431  https://satexpresstv.ru/apk/setv.m3u
@@ -8,4 +8,4 @@ ok     3797  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 ok     3729  https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
 ok      238  https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
 ok     8684  https://gclnk.com/lf4JtBLc
-итог: 94 каналов, дублей убрано 63, мусорных ссылок 324, сокращено 0, мёртвых отброшено 27, 17.4 с
+итог: 93 каналов, дублей убрано 63, мусорных ссылок 324, сокращено 0, мёртвых отброшено 28, 17.5 с
