@@ -51,21 +51,38 @@ jobs:
           M3U_STATUS: status-tv-verified.txt
         run: python build_playlist.py
 
-      - name: Коммит, только если плейлист реально изменился
+      - name: Коммит плейлистов
         run: |
           git config user.name  "playlist-bot"
           git config user.email "playlist-bot@users.noreply.github.com"
-          # status-файлы добавляем всегда — они перезаписываются, истории не создают
-          git add status.txt status-tv.txt status-tv-verified.txt 2>/dev/null || true
           LISTS="playlist.m3u playlist-tv.m3u playlist-tv-verified.m3u"
-          if git diff --cached --quiet -- $LISTS; then
-            echo "Списки каналов не изменились — коммита не будет"
-            git reset
+
+          # 1. Файлы обязаны существовать и быть непустыми
+          for f in $LISTS; do
+            if [ ! -s "$f" ]; then
+              echo "::error::файл $f не создан — сборка не дала результата"
+              ls -la
+              exit 1
+            fi
+            echo "есть: $f — $(grep -c '^#EXTINF' "$f") каналов, $(stat -c%s "$f") байт"
+          done
+
+          # 2. Показываем, что git вообще видит (включая игнорируемые файлы)
+          echo "--- git status:"
+          git status --porcelain --ignored | head -30
+
+          # 3. Добавляем принудительно: -f снимает возможные правила .gitignore,
+          #    которые иначе заставляют git молча пропустить добавление
+          git add -f $LISTS status.txt status-tv.txt status-tv-verified.txt 2>/dev/null || true
+
+          # 4. Определяем, есть ли что коммитить. Сравниваем с HEAD, а не «пусто/не пусто»:
+          #    так новые (ещё не отслеживаемые) файлы тоже видны как изменение.
+          if git diff --cached --quiet HEAD -- $LISTS; then
+            echo "Содержимое плейлистов не изменилось с прошлого коммита — коммита не будет"
+            git reset >/dev/null
           else
-            CH=$(grep -c '^#EXTINF' playlist.m3u || echo 0)
-            TV=$(grep -c '^#EXTINF' playlist-tv.m3u || echo 0)
-            VR=$(grep -c '^#EXTINF' playlist-tv-verified.m3u || echo 0)
-            git add $LISTS
-            git commit -m "auto: плейлисты обновлены (полный $CH, ТВ $TV, проверенный $VR)"
+            git commit -m "auto: плейлисты обновлены ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             git push
+            echo "закоммичено. Файлы в репозитории:"
+            git show --stat --oneline HEAD | head -10
           fi
