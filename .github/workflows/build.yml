@@ -1,0 +1,71 @@
+name: build-playlist
+
+on:
+  schedule:
+    # ВНИМАНИЕ: время в UTC. */30 = каждые 30 минут.
+    # GitHub может задержать запуск на 5-20 минут при высокой нагрузке — это нормально.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:      # кнопка "запустить сейчас" в веб-интерфейсе
+  push:
+    paths:
+      - "config.json"     # пересобрать сразу после правки списка источников
+
+permissions:
+  contents: write         # нужно, чтобы бот мог закоммитить плейлист
+
+concurrency:
+  group: build-playlist
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Зависимости
+        run: pip install -r requirements.txt
+
+      - name: Сборка полного плейлиста
+        run: python build_playlist.py
+
+      - name: Сборка телевизионного плейлиста (короткий список)
+        env:
+          M3U_CONFIG: config-tv.json
+          M3U_OUT: playlist-tv.m3u
+          M3U_STATUS: status-tv.txt
+        run: python build_playlist.py
+
+      - name: Сборка проверенного плейлиста (белый список каналов)
+        env:
+          M3U_CONFIG: config-tv-verified.json
+          M3U_OUT: playlist-tv-verified.m3u
+          M3U_STATUS: status-tv-verified.txt
+        run: python build_playlist.py
+
+      - name: Коммит, только если плейлист реально изменился
+        run: |
+          git config user.name  "playlist-bot"
+          git config user.email "playlist-bot@users.noreply.github.com"
+          # status-файлы добавляем всегда — они перезаписываются, истории не создают
+          git add status.txt status-tv.txt status-tv-verified.txt 2>/dev/null || true
+          LISTS="playlist.m3u playlist-tv.m3u playlist-tv-verified.m3u"
+          if git diff --cached --quiet -- $LISTS; then
+            echo "Списки каналов не изменились — коммита не будет"
+            git reset
+          else
+            CH=$(grep -c '^#EXTINF' playlist.m3u || echo 0)
+            TV=$(grep -c '^#EXTINF' playlist-tv.m3u || echo 0)
+            VR=$(grep -c '^#EXTINF' playlist-tv-verified.m3u || echo 0)
+            git add $LISTS
+            git commit -m "auto: плейлисты обновлены (полный $CH, ТВ $TV, проверенный $VR)"
+            git push
+          fi
