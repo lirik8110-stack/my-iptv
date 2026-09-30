@@ -1,0 +1,243 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/index.xml"
+#EXTINF:-1 group-title="212.15",Travel+Adventure
+http://212.15.51.20:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="212.15",viju Explore
+http://212.15.51.20:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="212.15",viju History
+http://212.15.51.20:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="212.15",ИНДИЙСКОЕ КИНО
+http://212.15.51.20:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="212.15",Мосфильм. Золотая Коллекция
+http://212.15.51.20:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="212.15",Моя Планета
+http://212.15.51.20:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="212.15",НТВ Сериал
+http://212.15.51.20:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="CHEBURASH" tvg-id="indiyskoe-kino",Индийское кино
+https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="CINERAMA" tvg-logo="http://rafail1982.uz/logo/Viju History.png",Viju History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",Nat Geo Wild
+http://185.195.184.30:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",Travel+Adventure
+http://185.195.184.30:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",Индийское Кино
+http://185.195.184.30:8000/play/27/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",Мосфильм. Золотая Коллекция
+http://185.195.184.30:8000/play/a1af/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",Моя Планета
+http://185.195.184.30:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",НТВ
+http://185.195.184.30:8000/play/a0ie/index.m3u8
+#EXTINF:-1 group-title="HARTUM TV SRL",НТВ Сериал
+http://185.195.184.30:8000/play/a0kc/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online AG",Индийское кино
+http://5.9.11.197:57419/chu-115/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",НТВ Хит
+http://5.9.11.197:57419/chu-130/mpegts
+#EXTINF:-1 group-title="Internet42 LLC",НТВ
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 group-title="IPTVru",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="IPTVru",НТВ Сериал
+http://cdn.ntv.ru/th_serial/mono.m3u8
+#EXTINF:-1 group-title="IPTVru",НТВ Хит
+http://cdn.ntv.ru/th_hit/mono.m3u8
+#EXTINF:-1 group-title="IZONE",Nat Geo Wild
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 group-title="IZONE",Индийское Кино
+http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE",Моя планета
+http://46.32.176.50/moyaplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE",НТВ
+http://46.32.176.50/ntvplus/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10386/logo_256_1658737079.png",Неизвестная планета
+https://mhd116.iptv2022.com/x/a3ewQLp9K_FMi-kBtYdJUQ,1790881736/streaming/np/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14064/logo_256_1673861719.png",НТВ Хит
+https://mhd116.iptv2022.com/x/kjZ-mAVAKXbzMcGWKD75LQ,1790881736/streaming/sever_crimea24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (✅✅✅ 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10386/logo_256_1658737079.png",Неизвестная планета
+https://mhd116.iptv2022.com/x/FK5PU54U1RRESsUbO-1KKw,1790837615/streaming/np/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+#EXTINF:-1 group-title="Lime (✅✅✅ 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14064/logo_256_1673861719.png",НТВ Хит
+https://mhd116.iptv2022.com/x/O7AzY97gWK6LbL5dsP2jkw,1790837615/streaming/sever_crimea24/324/1/index.m3u8
+#EXTINF:-1 group-title="LLC G&G-Telecom",Discovery
+http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="LLC G&G-Telecom",Индийское Кино
+http://195.64.140.147:10049/49
+#EXTINF:-1 group-title="LLC G&G-Telecom",Мосфильм. Золотая коллекция
+http://195.64.140.147:10078/78
+#EXTINF:-1 group-title="LLC G&G-Telecom",Моя Планета
+http://195.64.140.147:10161/161
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ
+http://195.64.140.147:10004/994
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ Сериал
+http://195.64.140.147:10073/73
+#EXTINF:-1 group-title="LLC G&G-Telecom",НТВ Хит
+http://195.64.140.147:10074/74
+#EXTINF:-1 group-title="mcquack.net",Discovery
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",Nat Geo Wild
+http://stream.mcquack.net/149/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",Travel+Adventure
+http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",Viju Explore
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",Viju History
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",Индийское кино
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",Мосфильм. Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",Моя планета
+http://stream.mcquack.net/124/index.m3u8
+#EXTINF:-1 group-title="mcquack.net",НТВ Сериал
+http://stream.mcquack.net/301/index.m3u8
+#EXTINF:-1 group-title="MKPNET",RT Doc HD
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Travel Channel HD
+http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Rutube (VPN)",Nat Geo Wild
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=C43b3O_6Sd1DQNM-rPRZWA&e=2090795419&scheme=https
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)",Travel Channel HD
+http://hls.stb.md/TRAVELCHANNEL_HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc5MDc5NTMxOCwiZXhwIjoxNzkwODgxNzE4LCJpYXQiOjE3OTA3OTUzMTgsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.H6cOo4dUxHJy6ilmtF_evP1ifGjRvi6ddQcUxNoN91I
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)",Мосфильм. Золотая коллекция
+http://hls.stb.md/MOSFILM_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc5MDc5NTMxOCwiZXhwIjoxNzkwODgxNzE4LCJpYXQiOjE3OTA3OTUzMTgsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.H6cOo4dUxHJy6ilmtF_evP1ifGjRvi6ddQcUxNoN91I
+#EXTINF:-1 group-title="TEST (VPN)",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",NAT GEO WILD
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Индийское Кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Моя Планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",НТВ
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink (VPN)",Nat Geo Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Индийское кино
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Моя планета
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Моя планета
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+#EXTINF:-1 group-title="Агронет",RT DOC HD
+http://195.26.83.96:7017/play/a00t/index.m3u8
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Моя планета
+http://5.188.221.43:8080/play/moya_planeta
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",НТВ
+http://5.188.221.43:8080/play/ntv
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Индийское кино
+http://arbiter.bolshoe.tv/?path=abr1/india/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDc6MDk6MDAgUE0maGFzaF92YWx1ZT1oY1ZhL0JkejlSNFdyeGJ4ejVMK2h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Большое ТВ (VPN)",НТВ
+http://arbiter.bolshoe.tv/?path=streaming/ntv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDc6MDk6MDAgUE0maGFzaF92YWx1ZT1oY1ZhL0JkejlSNFdyeGJ4ejVMK2h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Большое ТВ (VPN)",НТВ Хит
+http://arbiter.bolshoe.tv/?path=abr3/ntv-hit/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI2IDc6MDk6MDAgUE0maGFzaF92YWx1ZT1oY1ZhL0JkejlSNFdyeGJ4ejVMK2h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Велком",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Велком",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)",НТВ
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 group-title="Инет",НТВ
+http://185.46.16.239:8000/NTV
+#EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",Мосфильм. Золотая коллекция
+http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",Моя планета
+http://31.210.208.171:8080/moya_planeta/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",НТВ
+http://31.210.208.171:8080/ntv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="indiyskoe-kino",Индийское кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Мосфильм Золотая коллекция
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
+http://188.190.222.53/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ ТЕСТ" tvg-id="kino1int-tviksel",Кино 1 International
+https://tinyurl.com/275rjmu5
+#EXTINF:-1 group-title="Линкинтел",НТВ
+http://194.152.35.17/ntv/index.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Моя Планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",НТВ
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery
+http://178.217.72.72/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild
+http://178.217.72.72/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",RT Doc HD
+http://95.66.188.74/RT_Doc_HD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
+http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
+https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju History
+http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя Планета
+http://192.162.64.99:5000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
+#EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/poznanie/travel-channel.png",Travel Channel HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869362&extension=ts
+#EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/films/indijskoe-kino.png",Индийское кино
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869471&extension=ts
+#EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/films/mosfilm-pl4.png",Мосфильм: золотая коллекция +4 HD
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869525&extension=ts
+#EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/federal/ntv-white.png",НТВ
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869703&extension=ts
+#EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/films/ntv-serial.png",НТВ Сериал
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869521&extension=ts
+#EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/films/ntv-xit.png",НТВ Хит
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869520&extension=ts
+#EXTINF:-1 group-title="Развлекательные",Travel Channel HD
+http://2.57.217.85:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Ростелеком (VPN)",TRAVEL+ADVENTURE
+http://178.68.244.231:81/play/a022
+#EXTINF:-1 group-title="Ростелеком (VPN)",ИНДИЙСКОЕ КИНО
+http://178.68.244.231:81/play/a02k
+#EXTINF:-1 group-title="С сайтов (VPN)",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Сириус",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="nat-geo-wild" tvg-logo="http://odinson.me/storage/iptv/channels/Rm97FInwbu.png",Nat Geo Wild
+http://66.90.110.10:8080/K8iwxvioKwNMUrcD/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="viasat-explore" tvg-logo="http://odinson.me/storage/iptv/channels/q6D2YBuJw3.png",Viju Explore
+http://66.90.110.10:8080/8LzXZBkDYq/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="viasat-history" tvg-logo="http://odinson.me/storage/iptv/channels/206ZLzg6cX.png",Viju History
+http://66.90.110.10:8080/GmEkFCn8h1/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="indiyskoe-kino" tvg-logo="http://odinson.me/storage/iptv/channels/M8xzjEED7T.png",Индийское кино
+http://66.90.110.10:8080/OB1x127EMT/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="moya-planeta" tvg-logo="http://odinson.me/storage/iptv/channels/JqZzOoOeO1.png",Моя Планета
+http://66.90.110.10:8080/6UIKzbQTSQpBGV1r/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 group-title="ТЕСТ" tvg-id="ntv" tvg-logo="http://odinson.me/storage/iptv/channels/c3PTAhwYEb.png",НТВ
+http://66.90.110.10:8080/TB29RXpnFz9siGgu/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Моя планета
+http://tv.ttk.mx:9040
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ Хит
+http://tv.ttk.mx:9173
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv-serial",НТВ Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv-xit",НТВ Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные",Телепутешествия
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="🌌 Россия Геоблок 🌌" tvg-logo="https://i.ibb.co/9N9B9JN/resize-44.png",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
