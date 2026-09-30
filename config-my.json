@@ -1,5 +1,5 @@
 {
-  "_комментарий": "ПЕРСОНАЛЬНЫЙ плейлист: только выбранные каналы. Собирается в playlist-my.m3u. Чтобы добавить канал — допишите его название в include_names ниже.",
+  "_комментарий": "ПЕРСОНАЛЬНЫЙ плейлист: только ваши каналы, одна группа «ТВ», по одной ссылке на канал. Собирается в playlist-my.m3u",
 
   "sources": [
     "https://satexpresstv.ru/apk/setv.m3u",
@@ -10,7 +10,7 @@
   ],
   "source_groups": ["SAT", "Dimonovich", "Verona", "IPTVru", "CHEBURASH"],
 
-  "_include_names": "БЕЛЫЙ СПИСОК. Попадут только каналы с этими названиями. Регистр не важен.",
+  "_include_names": "БЕЛЫЙ СПИСОК. Попадут только каналы с этими названиями.",
   "include_names": [
     "НТВ",
     "НТВ Хит",
@@ -21,34 +21,58 @@
     "Travel+Adventure",
     "Travel Channel HD",
     "RT DOC HD",
-    "RT Doc HD",
     "Viju History",
     "Viju Explore",
     "Телепутешествия",
     "Discovery",
     "Nat Geo Wild",
     "Моя Планета",
-    "Моя планета",
     "Мосфильм Золотая коллекция",
     "Мосфильм. Золотая Коллекция",
     "Мосфильм. Золотая коллекция",
     "Мосфильм: золотая коллекция +4 HD"
   ],
 
-  "_filter_note": "группы НЕ фильтруем: нужные каналы лежат в служебных наборах провайдеров, отбор идёт только по именам. Если нужно вернуть DocuBox — допишите DocuBox, DocuBox HD, BOX Docu HD.",
+  "_direct_links": "ПОСТОЯННЫЕ ССЫЛКИ, проверенные вручную. Добавляются всегда, фильтрами не отбрасываются. Здесь каналы, у которых рабочая ссылка не находится автоматически.",
+  "direct_links": [
+    { "name": "Неизвестная планета", "url": "http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8", "group": "ТВ" },
+    { "name": "Travel Channel HD", "url": "http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8", "group": "ТВ" },
+    { "name": "Travel+Adventure", "url": "http://stream.mcquack.net/206/index.m3u8", "group": "ТВ" },
+    { "name": "Viju History", "url": "https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8", "group": "ТВ" },
+    { "name": "Viju Explore", "url": "http://stream.mcquack.net/239/index.m3u8", "group": "ТВ" },
+    { "name": "Discovery", "url": "http://195.64.140.147:10151/151", "group": "ТВ" },
+    { "name": "Nat Geo Wild", "url": "http://stream.mcquack.net/149/index.m3u8", "group": "ТВ" },
+    { "name": "Мосфильм. Золотая коллекция", "url": "http://stream.mcquack.net/369/index.m3u8", "group": "ТВ" }
+  ],
+
+  "_filter_note": "группы не фильтруем, отбор идёт по именам. В force_group сведены все каналы в одну группу «ТВ».",
   "include_groups": [],
   "exclude_groups": [],
   "include_name_regex": null,
   "exclude_name_regex": null,
 
+  "_postprocess": "Варианты одного канала объединяются, остаётся до max_per_channel ссылок. 1 — по одной ссылке на канал, без резервов.",
+  "postprocess_group_key": "name",
+  "max_per_channel": 1,
+
+  "_exclude_exact_names": "каналы, которые нужно исключить из списка (например лишние варианты сдвига по времени)",
+  "exclude_exact_names": ["Мосфильм: золотая коллекция +4 HD"],
+
+  "_force_group": "одна группа вместо провайдерских «212.15», «ПОМОЙКА» и подобных",
+  "force_group": "ТВ",
+
+  "_only_alive": "ПРОВЕРКА ЖИВОСТИ: включена, поэтому в плейлист попадают только отвечающие ссылки. Из России проверка точнее — часть каналов может не попасть.",
+  "only_alive": true,
+  "alive_check_limit": 0,
+  "timeout_sec": 6,
+  "concurrency": 96,
+
   "drop_junk_urls": true,
-  "only_alive": false,
   "quality_sort": false,
-  "timeout_sec": 8,
-  "concurrency": 64,
   "min_channels": 5,
   "max_per_group": 0,
   "max_total": 0,
   "order_groups": [],
   "url_base": ""
 }
+
