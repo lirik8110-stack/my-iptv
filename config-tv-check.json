@@ -1,0 +1,49 @@
+{
+  "_комментарий": "ПРОВЕРОЧНЫЙ конфиг: то же, что config-tv.json, но с включённой проверкой живости. Запускать только из России.",
+  "sources": [
+    "https://satexpresstv.ru/apk/setv.m3u",
+    "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV",
+    "https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u",
+    "https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u",
+    "https://gclnk.com/lf4JtBLc"
+  ],
+  "source_groups": ["SAT", "Dimonovich", "Verona", "IPTVru", "CHEBURASH"],
+  "include_groups": [
+    "Новости", "Новостные", "Информационные",
+    "Кино", "Кино и сериалы", "Фильмы", "Кинозалы", "Сериалы",
+    "Спорт", "Спортивные", "Спорткомплекс",
+    "Детские", "Детям", "Мультфильмы",
+    "Музыка", "Музыкальные",
+    "Познавательные", "Наука", "Документальные", "Природа",
+    "Эфирные", "Региональные", "Развлекательные"
+  ],
+  "group_aliases": {
+    "Новости": ["Новостные", "Информационные"],
+    "Кино": ["Кино и сериалы", "Фильмы", "Кинозалы"],
+    "Спорт": ["Спортивные", "Спорткомплекс"],
+    "Детские": ["Детям", "Мультфильмы"],
+    "Музыка": ["Музыкальные"],
+    "Познавательные": ["Наука", "Документальные", "Природа"],
+    "Региональные": ["Региoнальные", "Региональное ТВ", "Общие"]
+  },
+  "dedupe_by_name": true,
+  "dedupe_across_groups": true,
+  "exclude_groups": ["Adult", "XXX", "18+", "Shopping"],
+  "include_name_regex": null,
+  "exclude_name_regex": "(?i)(test|тест|demo|backup|резерв|проверка|заглушка|не работает)",
+  "drop_junk_urls": true,
+
+  "only_alive": true,
+  "alive_check_limit": 0,
+  "timeout_sec": 6,
+  "concurrency": 96,
+
+  "_export": "вывести список выживших каналов — чтобы зафиксировать проверенный набор",
+  "export_include_names": true,
+
+  "min_channels": 100,
+  "max_per_group": 0,
+  "max_total": 0,
+  "order_groups": ["Новости", "Кино", "Сериалы", "Спорт", "Детские", "Музыка", "Познавательные", "Региональные"],
+  "url_base": ""
+}

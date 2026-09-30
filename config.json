@@ -1,0 +1,31 @@
+{
+  "_комментарий": "Только проверенные источники. Нерабочие удалены — см. README, раздел 'Что убрано и почему'",
+
+  "sources": [
+    "https://satexpresstv.ru/apk/setv.m3u",
+    "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV",
+    "https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u",
+    "https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u",
+    "https://gclnk.com/lf4JtBLc"
+  ],
+
+  "source_groups": ["SAT", "Dimonovich", "Verona", "IPTVru", "CHEBURASH"],
+
+  "_only_alive": "ВКЛЮЧАТЬ ТОЛЬКО НА СЕРВЕРЕ В РФ. На GitHub-раннере (США) проверка выбросит все российские гео-каналы как мёртвые, и плейлист опустеет.",
+  "only_alive": false,
+  "alive_check_limit": 0,
+
+  "drop_junk_urls": true,
+  "timeout_sec": 8,
+  "concurrency": 64,
+  "min_channels": 500,
+
+  "include_groups": [],
+  "exclude_groups": ["Adult", "XXX", "18+", "Shopping"],
+
+  "include_name_regex": null,
+  "exclude_name_regex": "(?i)(test|тест|demo|backup|резерв|проверка)",
+
+  "order_groups": ["Новости", "Кино", "Спорт", "Детские", "Музыка", "Познавательные"],
+  "url_base": ""
+}
