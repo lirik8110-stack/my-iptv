@@ -51,11 +51,18 @@ jobs:
           M3U_STATUS: status-tv-verified.txt
         run: python build_playlist.py
 
+      - name: Сборка моего плейлиста (только выбранные каналы)
+        env:
+          M3U_CONFIG: config-my.json
+          M3U_OUT: playlist-my.m3u
+          M3U_STATUS: status-my.txt
+        run: python build_playlist.py
+
       - name: Коммит плейлистов
         run: |
           git config user.name  "playlist-bot"
           git config user.email "playlist-bot@users.noreply.github.com"
-          LISTS="playlist.m3u playlist-tv.m3u playlist-tv-verified.m3u"
+          LISTS="playlist.m3u playlist-tv.m3u playlist-tv-verified.m3u playlist-my.m3u"
 
           # 1. Файлы обязаны существовать и быть непустыми
           for f in $LISTS; do
@@ -71,12 +78,10 @@ jobs:
           echo "--- git status:"
           git status --porcelain --ignored | head -30
 
-          # 3. Добавляем принудительно: -f снимает возможные правила .gitignore,
-          #    которые иначе заставляют git молча пропустить добавление
-          git add -f $LISTS status.txt status-tv.txt status-tv-verified.txt 2>/dev/null || true
+          # 3. Добавляем принудительно: -f снимает возможные правила .gitignore
+          git add -f $LISTS status.txt status-tv.txt status-tv-verified.txt status-my.txt 2>/dev/null || true
 
-          # 4. Определяем, есть ли что коммитить. Сравниваем с HEAD, а не «пусто/не пусто»:
-          #    так новые (ещё не отслеживаемые) файлы тоже видны как изменение.
+          # 4. Сравниваем с HEAD: так новые файлы тоже видны как изменение
           if git diff --cached --quiet HEAD -- $LISTS; then
             echo "Содержимое плейлистов не изменилось с прошлого коммита — коммита не будет"
             git reset >/dev/null
