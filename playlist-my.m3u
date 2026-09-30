@@ -175,14 +175,6 @@ http://66.90.110.10:8080/OB1x127EMT/index.m3u8?token=CNVkbIWpdNQAUXGC
 http://66.90.110.10:8080/6UIKzbQTSQpBGV1r/index.m3u8?token=CNVkbIWpdNQAUXGC
 #EXTINF:-1 group-title="ТЕСТ" tvg-id="ntv" tvg-logo="http://odinson.me/storage/iptv/channels/c3PTAhwYEb.png",НТВ
 http://66.90.110.10:8080/TB29RXpnFz9siGgu/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
-http://tv.ttk.mx:9169
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Моя планета
-http://tv.ttk.mx:9040
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ
-http://tv.ttk.mx:9003
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ Хит
-http://tv.ttk.mx:9173
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv-serial",НТВ Сериал
