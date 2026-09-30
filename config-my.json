@@ -1,0 +1,54 @@
+{
+  "_комментарий": "ПЕРСОНАЛЬНЫЙ плейлист: только выбранные каналы. Собирается в playlist-my.m3u. Чтобы добавить канал — допишите его название в include_names ниже.",
+
+  "sources": [
+    "https://satexpresstv.ru/apk/setv.m3u",
+    "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV",
+    "https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u",
+    "https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u",
+    "https://gclnk.com/lf4JtBLc"
+  ],
+  "source_groups": ["SAT", "Dimonovich", "Verona", "IPTVru", "CHEBURASH"],
+
+  "_include_names": "БЕЛЫЙ СПИСОК. Попадут только каналы с этими названиями. Регистр не важен.",
+  "include_names": [
+    "НТВ",
+    "НТВ Хит",
+    "НТВ Сериал",
+    "Неизвестная планета",
+    "Кино 1 International",
+    "Индийское кино",
+    "Travel+Adventure",
+    "Travel Channel HD",
+    "RT DOC HD",
+    "RT Doc HD",
+    "Viju History",
+    "Viju Explore",
+    "Телепутешествия",
+    "Discovery",
+    "Nat Geo Wild",
+    "Моя Планета",
+    "Моя планета",
+    "Мосфильм Золотая коллекция",
+    "Мосфильм. Золотая Коллекция",
+    "Мосфильм. Золотая коллекция",
+    "Мосфильм: золотая коллекция +4 HD"
+  ],
+
+  "_filter_note": "группы НЕ фильтруем: нужные каналы лежат в служебных наборах провайдеров, отбор идёт только по именам. Если нужно вернуть DocuBox — допишите DocuBox, DocuBox HD, BOX Docu HD.",
+  "include_groups": [],
+  "exclude_groups": [],
+  "include_name_regex": null,
+  "exclude_name_regex": null,
+
+  "drop_junk_urls": true,
+  "only_alive": false,
+  "quality_sort": false,
+  "timeout_sec": 8,
+  "concurrency": 64,
+  "min_channels": 5,
+  "max_per_group": 0,
+  "max_total": 0,
+  "order_groups": [],
+  "url_base": ""
+}
