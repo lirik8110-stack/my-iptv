@@ -1,5 +1,5 @@
 файл: playlist.m3u
-обновлено: 2026-10-01 06:05 UTC
+обновлено: 2026-10-01 06:44 UTC
 каналов: 14004
 
 источники:
@@ -8,4 +8,4 @@ ok     3797  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 ok     3729  https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
 ok      238  https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
 ok     8684  https://gclnk.com/lf4JtBLc
-итог: 14004 каналов, дублей убрано 3542, мусорных ссылок 324, сокращено 0, мёртвых отброшено 0, 5.4 с
+итог: 14004 каналов, дублей убрано 3542, мусорных ссылок 324, сокращено 0, мёртвых отброшено 0, 4.0 с
