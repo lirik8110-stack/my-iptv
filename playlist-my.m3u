@@ -33,8 +33,6 @@ http://185.195.184.30:8000/play/a1af/index.m3u8
 http://185.195.184.30:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",НТВ
 http://185.195.184.30:8000/play/a0ie/index.m3u8
-#EXTINF:-1 group-title="HARTUM TV SRL",НТВ Сериал
-http://185.195.184.30:8000/play/a0kc/index.m3u8
 #EXTINF:-1 group-title="Hetzner Online AG",Индийское кино
 http://5.9.11.197:57419/chu-115/mpegts
 #EXTINF:-1 group-title="Hetzner Online AG",НТВ Хит
@@ -161,14 +159,6 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Сириус",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
-http://tv.ttk.mx:9169
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Моя планета
-http://tv.ttk.mx:9040
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ
-http://tv.ttk.mx:9003
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ Хит
-http://tv.ttk.mx:9173
 #EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Travel Channel HD
 http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82nFhaWQuLD_xkQwGRLg_EgGj7ZjsfWrcIi_raVQwRWOc
 #EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Travel+Adventure
