@@ -15,6 +15,8 @@ http://212.15.51.20:8000/play/a05v/index.m3u8
 http://212.15.51.20:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="CHEBURASH",Travel+Adventure
+http://178.68.244.231:81/play/a037
 #EXTINF:-1 group-title="CHEBURASH" tvg-id="indiyskoe-kino",Индийское кино
 https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="CINERAMA" tvg-logo="http://rafail1982.uz/logo/Viju History.png",Viju History
@@ -157,18 +159,34 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Сириус",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="nat-geo-wild" tvg-logo="http://odinson.me/storage/iptv/channels/Rm97FInwbu.png",Nat Geo Wild
-http://66.90.110.10:8080/K8iwxvioKwNMUrcD/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="viasat-explore" tvg-logo="http://odinson.me/storage/iptv/channels/q6D2YBuJw3.png",Viju Explore
-http://66.90.110.10:8080/8LzXZBkDYq/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="viasat-history" tvg-logo="http://odinson.me/storage/iptv/channels/206ZLzg6cX.png",Viju History
-http://66.90.110.10:8080/GmEkFCn8h1/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="indiyskoe-kino" tvg-logo="http://odinson.me/storage/iptv/channels/M8xzjEED7T.png",Индийское кино
-http://66.90.110.10:8080/OB1x127EMT/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="moya-planeta" tvg-logo="http://odinson.me/storage/iptv/channels/JqZzOoOeO1.png",Моя Планета
-http://66.90.110.10:8080/6UIKzbQTSQpBGV1r/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 group-title="ТЕСТ" tvg-id="ntv" tvg-logo="http://odinson.me/storage/iptv/channels/c3PTAhwYEb.png",НТВ
-http://66.90.110.10:8080/TB29RXpnFz9siGgu/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Моя планета
+http://tv.ttk.mx:9040
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ Хит
+http://tv.ttk.mx:9173
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Travel Channel HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82nFhaWQuLD_xkQwGRLg_EgGj7ZjsfWrcIi_raVQwRWOc
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Travel+Adventure
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-tCxR8oFTDnKzCqDxOzYJtTOzDtioenxA14fGQGOJJXAm7BmsoBKytT12BNGW3VkE
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Viju Explore
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOjnV4oy6X_0evw5DZq6lbhUQ3E-vL-TadDnB4soPP_tY
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Viju History
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO-uCXRaesP8KZ6obwgHNa1IKw2F_0hHhNNqjHAUSU1Bs
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Индийское Кино
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOmEmTVkAES3vSxcfMvrtr_DE1_SO-3T1M3-FqzP7X7ls
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Мосфильм. Золотая коллекция
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd8xOqu96cZkzhEgq527OdeZ_uiUlh4IOk25QhhS0H2eC00Bqav69BKa_l3MNAPmV6A
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Моя Планета
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOTk2-N43IhNtpMH_mJMnrP7bwnu3o8pUafo2z4KLrRE4
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",НТВ Сериал
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-wUm5112dNkEud84osBAEwkJgJuv8bvf79Qr4LUQXEtENCpauZtJTm-4cVVW6jZ0I
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",НТВ Хит
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-wUm5112dNkEud84osBAEw8weiDv7NuklyA0rmuiM0EWNHBDv2I76CT5NGFqmIVwE
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Телепутешествия
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82_At8vSm70w0mK2LpB25wbVRvEXs4Btyc_ssGvjyQewo
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv-serial",НТВ Сериал
