@@ -135,10 +135,6 @@ http://194.152.35.17/ntv/index.m3u8
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery
-http://178.217.72.72/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild
-http://178.217.72.72/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
 https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя Планета
@@ -147,8 +143,6 @@ http://192.162.64.99:5000/play/a029/index.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Телепутешествия
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
-#EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/poznanie/travel-channel.png",Travel Channel HD
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869362&extension=ts
 #EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/films/indijskoe-kino.png",Индийское кино
 http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869471&extension=ts
 #EXTINF:-1 group-title="ПОМОЙКА" tvg-logo="http://peaktv.su/img/logos/films/mosfilm-pl4.png",Мосфильм: золотая коллекция +4 HD
