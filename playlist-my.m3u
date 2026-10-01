@@ -131,10 +131,6 @@ http://194.152.35.17/ntv/index.m3u8
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery
-http://178.217.72.72/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild
-http://178.217.72.72/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
 https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя Планета
@@ -165,6 +161,14 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Сириус",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Моя планета
+http://tv.ttk.mx:9040
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",НТВ Хит
+http://tv.ttk.mx:9173
 #EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Travel Channel HD
 http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82nFhaWQuLD_xkQwGRLg_EgGj7ZjsfWrcIi_raVQwRWOc
 #EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ",Travel+Adventure
