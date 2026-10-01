@@ -11,8 +11,6 @@ http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
 https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
 #EXTINF:-1 group-title="ТВ",Viju Explore
 http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 group-title="ТВ",Viju History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="indiyskoe-kino",Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="ТВ",Кино 1 International
