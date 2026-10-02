@@ -1779,76 +1779,6 @@ http://178.68.244.231:81/play/a01v
 http://178.68.244.231:81/play/a00f
 #EXTINF:-1 group-title="CHEBURASH",ЮРГАН
 http://178.68.244.231:81/play/a01s
-#EXTINF:-1 group-title="CINERAMA",AlJazeera
-https://stream8.cinerama.uz/1433/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Amudaryo TV
-https://stream8.cinerama.uz/1491/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Az TV
-https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",CGTN Rus
-https://stream8.cinerama.uz/1456/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Dasturxon TV
-https://stream8.cinerama.uz/1206/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Deutsche Welle
-https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Ellikqala TV
-https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Fergana MTRK
-https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Fuel TV
-https://stream8.cinerama.uz/1280/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Ishonch TV
-https://stream8.cinerama.uz/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Jaslar TV
-https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Jizzax TV
-https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Makon TV
-https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",MilliyTV
-https://stream8.cinerama.uz/1216/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Mimi TV
-https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",MMA-TV HD
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Muloqot TV
-https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Qaraqalpaqstan
-https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Qiziq TV
-https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Retro TV
-https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",S Cinema
-https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",S-IQBOL
-https://stream8.cinerama.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Shifo TV
-https://stream8.cinerama.uz/1469/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Smusic TV HD
-https://stream8.cinerama.uz/1476/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Surxondaryo MTRK
-https://stream8.cinerama.uz/1463/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",TTV
-https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",TTV Kino
-https://stream8.cinerama.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Viju Sport HD
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Xorazm MTRK
-https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA" tvg-logo="http://rafail1982.uz/logo/Загородный.png",Загородный
-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",КХЛ
-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA" tvg-logo="http://rafail1982.uz/logo/Матч! Планета.png",Матч! Планета
-https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA",Матч! Планета SD
-https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA" tvg-logo="http://rafail1982.uz/logo/ТВЦ International.png",ТВЦ International
-https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINERAMA" tvg-logo="http://rafail1982.uz/logo/Телекафе.png",Телекафе
-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fashion" tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png",Fashion Czech & Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="Fashion" tvg-id="fashion-one-hd",Fashion One HD
@@ -2271,8 +2201,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://lifetv.bitflip.ee/live/stream1_2/index.m3u8?cid=70729679359041
 #EXTINF:-1 group-title="IPTVru",Nano
 http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1 group-title="IPTVru",National Geographic
-http://stream8.cinerama.uz/1041/mono.m3u8
 #EXTINF:-1 group-title="IPTVru",Poland - Cracow 1
 http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
 #EXTINF:-1 group-title="IPTVru",Poland - Hotel Bukovina
@@ -6911,294 +6839,6 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 http://185.46.48.18:80/shanson/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/25VcB58T/auto-x2-1.jpg",🔺 INFO 🔺Посмотри!!!
 https://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
-#EXTINF:-1 group-title="Turon Media (VPN)",1HD
-https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",365 Дней HD
-https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",8 Канал
-https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Animal Planet
-https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Aqlvoy TV UZ
-https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",BBC WORLD
-https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Biz Cinema UZ
-https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Biz Music HD UZ
-https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",BizTV HD UZ
-https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Bloomberg
-https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Bolajon
-https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Bollywood
-https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",CGTN
-https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",CNN
-https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Da Vinci
-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Discovery Science
-https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Duck TV
-https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Dunyo bo`ylab UZ
-https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",English Club
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Euronews
-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Fashion TV
-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Foreign Languages UZ
-https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Fox News
-https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",France 24
-https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Globus Music
-https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Hollywood
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Insight TV HD
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Istiqlol TV
-https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",KBS WORLD
-https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Kinoteatr
-https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Lux TV
-https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Madaniyat va marifat
-https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Mahalla
-https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Mening Yurtim FHD UZ
-https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Milliy TV UZ
-https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",My5 UZ
-https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Myday TV
-https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",NAT GEO WILD
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Navo
-https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",NHK World Japan
-https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Nick Jr
-https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Nickelodeon
-https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Ntv UZ
-https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Nurafshon TV UZ
-https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Ozbekiston Tarixi HD UZ
-https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Qasaqstan
-https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Renessans TV UZ
-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",RU.TV
-https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Sevimili UZ
-https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Taraqqiyot TV UZ
-https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Tiji
-https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Toshkent
-https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TRT Avaz
-https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TRT Haber
-https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TRT Muzik
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Turan TV
-https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TV1000 ACTION HD
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",TV1000 Русское Кино
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Uzbekistan 24
-https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Uzbekiston
-https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Viasat Explore
-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Viasat History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Viasat Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",VIP Comedy
-https://stream8.cinerama.uz/1061/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",VIP Premiere
-https://stream8.cinerama.uz/1056/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",VIP Serial
-https://stream8.cinerama.uz/1224/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Yoshlar
-https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Zor TV HD
-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Авто 24
-https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Авто Плюс
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Арсенал HD
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",В Гостях У Сказки
-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",В Мире Животных
-https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Вопросы и Ответы
-https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Глазами Туриста
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Дикая охота HD
-https://stream8.cinerama.uz/1412/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Дикий
-https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Доктор
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Дом Кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Домашние Животные
-https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Дорама
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Драйв
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Живая Планета
-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Живая Природа HD
-https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Живи
-https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Живи Активно HD
-https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Звезда
-https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Здоровое ТВ
-https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Зоопарк
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Индийское Кино
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",История
-https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Казахстан 24
-https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Капитан Фантастика HD
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Карусель
-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинокомедия
-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киномикс
-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинопоказ
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинопремьера
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киносвидание
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киносемья
-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Киносерия
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кинохит
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Кухня ТВ
-https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Ля-Минор
-https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мама
-https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мир
-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мир 24
-https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Моя Планета
-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мужское кино
-https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Муз ТВ UZ
-https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",МузТВ
-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Музыка Первого
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мульт
-https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Мультиландия
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Наука
-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Наша Сибирь
-https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Наше Новое Кино
-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",НТВ
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Охота и Рыбалка
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Охотник и Рыболов HD
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Первый канал
-https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Первый канал HD
-https://stream3.cinerama.uz/1214/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Первый Космический
-https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Приключения
-https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Ретро
-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Родное Кино
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Россия 1
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Россия 24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Россия К
-https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Сарафан
-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Смайл ТВ
-https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",СТВ Музыка HD
-https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",ТВЦ
-https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Техно 24
-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",ТНТ Music
-https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Точка Отрыва
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Точка РФ
-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Уникум
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Усадьба
-https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uplink (VPN)",24 KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Uplink (VPN)",365 дней
@@ -20169,10 +19809,6 @@ https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1660273309.m3u8
 https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w1217226869.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png",RS News Sports 5
 https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w1651088250.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Sky Sports 2 NZ
@@ -20209,8 +19845,6 @@ https://tjktv-live.tjk.org/tjktv/tjktv_480p.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/fdfpTqBv/image-2025-10-10-T154815-487.png",TR Sport
 https://livetr.teleromagna.it/mia/live/live/mia480/chunks.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Trace Sport Stars HD
-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",TRT Sport
 http://195.64.140.147:10106/106
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/Cs2L3J4r/image-2025-10-10-T154528-323.png",TVS Bowling Network
@@ -20227,10 +19861,6 @@ https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/tracks-v1a1/mono.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsturbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://i.ibb.co/Y7Rw62W7/image-2025-10-10-T152940-559.png",TVS Women Sports
 https://rpn.bozztv.com/gusa/gusa-tvswsn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Uzreport HD
-https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",UzSport
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sort
 http://195.64.140.147:10113/113
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
