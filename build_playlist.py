@@ -69,6 +69,7 @@ JUNK_URL = re.compile(
 BLOCKED_URL_HOSTS = (
     "zabava-htlive.cdn.ngenix.net",
     "wink.ru",
+    "cinerama.uz",
 )
 
 
@@ -643,3 +644,4 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
+
