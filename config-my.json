@@ -1,270 +1,105 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Сборка одного M3U-плейлиста из нескольких источников.
+{
+  "_комментарий": "ВАШ ПЕРСОНАЛЬНЫЙ ПЛЕЙЛИСТ. Каналы живут в разделе direct_links. Чтобы добавить — скопируйте строку и поменяйте имя с адресом.",
 
-Что делает:
-  1. Читает или автоматически создает config.json.
-  2. Качает источники (M3U/M3U8 или простой список ссылок).
-  3. Склеивает, чистит, убирает дубли.
-  4. Проверяет живость каждого потока (асинхронно через aiohttp или через пул потоков).
-  5. Пишет playlist.m3u + статистику в status.txt.
-  6. Отказывается перезаписывать результат, если каналов подозрительно мало.
+  "sources": [
+    "https://satexpresstv.ru/apk/setv.m3u",
+    "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV",
+    "https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u",
+    "https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u",
+    "https://gclnk.com/lf4JtBLc"
+  ],
+  "source_groups": ["SAT", "Dimonovich", "Verona", "IPTVru", "CHEBURASH"],
 
-Зависимости: только стандартная библиотека Python 3.9+ (опционально: aiohttp для скорости).
-"""
+  "_include_names": "Белый список для автоматического поиска ссылок в источниках. Основной список каналов — в direct_links ниже.",
+  "include_names": [
+    "НТВ", "НТВ Хит", "НТВ Сериал",
+    "Неизвестная планета", "Кино 1 International", "Индийское кино",
+    "Travel+Adventure", "Travel Channel HD", "RT DOC HD",
+    "Ретро ТВ", "Советское кино", "Моя стихия", "Домашний",
+    "Viju History", "Viju Explore", "Телепутешествия",
+    "Discovery", "Nat Geo Wild", "Моя Планета",
+    "Мосфильм Золотая коллекция", "Мосфильм. Золотая Коллекция", "Мосфильм. Золотая коллекция"
+  ],
 
-from __future__ import annotations
+  "_direct_links": "ССЫЛКИ ВАШИХ КАНАЛОВ. Основная и резервная. Все проверены на живость.",
+  "direct_links": [
+    { "name": "НТВ", "url": "http://185.195.184.30:8000/play/a0ie/index.m3u8", "group": "ТВ" },
+    { "name": "НТВ (резерв)", "url": "http://195.64.140.147:10004/994", "group": "ТВ" },
+    { "name": "НТВ Хит", "url": "http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8", "group": "ТВ" },
+    { "name": "НТВ Хит (резерв)", "url": "https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
+    { "name": "НТВ Сериал", "url": "http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
+    { "name": "НТВ Сериал (резерв)", "url": "https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
 
-import asyncio
-import json
-import os
-import re
-import ssl
-import sys
-import time
-import urllib.error
-import urllib.request
-from datetime import datetime, timezone
+    { "name": "VF Мосфильм", "url": "https://tinyurl.com/2ydgwrl5", "group": "ТВ" },
+    { "name": "VF Мосфильм (резерв)", "url": "http://103.163.132.53/iptv/3W9W7XEYC22NBD/10084/index.m3u", "group": "ТВ" },
+    { "name": "Ретро ТВ", "url": "http://stream.mcquack.net/191/index.m3u8", "group": "ТВ" },
+    { "name": "Ретро ТВ (резерв)", "url": "http://176.118.197.101/Retro/index.m3u8", "group": "ТВ" },
+    { "name": "Ретро ТВ (резерв 3)", "url": "http://vod.splay.uz/live_splay/original/Retro/index.m3u8", "group": "ТВ" },
+    { "name": "Советское кино", "url": "https://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8", "group": "ТВ" },
+    { "name": "Советское кино (резерв)", "url": "http://5.9.11.197:57419/chu-139/mpegts", "group": "ТВ" },
+    { "name": "Советское кино (резерв 3)", "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869525&extension=ts", "group": "ТВ" },
+    { "name": "Моя стихия", "url": "http://stream.mcquack.net/141/index.m3u8", "group": "ТВ" },
+    { "name": "Моя стихия (резерв)", "url": "http://212.15.51.20:8000/play/a04z/index.m3u8", "group": "ТВ" },
+    { "name": "Домашний", "url": "http://stream.mcquack.net/150/index.m3u8", "group": "ТВ" },
+    { "name": "Домашний (резерв)", "url": "http://212.15.51.20:8000/play/a01j/index.m3u8", "group": "ТВ" },
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
-CONFIG = os.environ.get("M3U_CONFIG") or os.path.join(ROOT, "config.json")
-OUT = os.environ.get("M3U_OUT") or os.path.join(ROOT, "playlist.m3u")
-STATUS = os.environ.get("M3U_STATUS") or os.path.join(ROOT, "status.txt")
+    { "name": "Мосфильм. Золотая коллекция", "url": "http://stream.mcquack.net/369/index.m3u8", "group": "ТВ" },
+    { "name": "Мосфильм. Золотая коллекция (резерв)", "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869525&extension=ts", "group": "ТВ" },
+    { "name": "Индийское кино", "url": "http://stream.mcquack.net/104/index.m3u8", "group": "ТВ" },
+    { "name": "Индийское кино (резерв)", "url": "http://188.113.190.12/329/index.m3u8", "group": "ТВ" },
+    { "name": "Кино 1 International", "url": "http://kino-1.catcast.tv/content/38617/index.m3u8", "group": "ТВ" },
+    { "name": "Кино 1 International (резерв)", "url": "https://kino-1.catcast.tv/content/38617/index.m3u8", "group": "ТВ" },
 
-UA = "VLC/3.0.20 LibVLC/3.0.20"
-EXTINF = re.compile(r"^#EXTINF:\s*(-?\d+(?:\.\d+)?)\s*(.*?),(.*)$")
-ATTR = re.compile(r'([A-Za-z0-9_.\-]+)="([^"]*)"')
+    { "name": "Моя Планета", "url": "http://vod.tuva.ru/myplanet/index.m3u8", "group": "ТВ" },
+    { "name": "Моя Планета (резерв)", "url": "http://195.64.140.147:10161/161", "group": "ТВ" },
+    { "name": "Неизвестная планета", "url": "http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8", "group": "ТВ" },
+    { "name": "Неизвестная планета (резерв)", "url": "http://192.162.64.99:5100/play/a02t/index.m3u8", "group": "ТВ" },
 
-JUNK_GROUP = {"undefined", "none", "null", "general", "other", "прочее", "разное", "n/a", "-"}
-UA_JUNK = re.compile(
-    r'(?:like\s+Gecko|Mozilla/|AppleWebKit|Safari/\d|Chrome/\d|Firefox/\d|MSIE|Trident/|'
-    r'group-title=|tvg-logo=|tvg-id=|#EXTINF)',
-    re.IGNORECASE,
-)
-JUNK_URL = re.compile(
-    r"^(?:https?://(?:127\.0\.0\.1|localhost|0\.0\.0\.0|\[?::1\]?)(?::\d+)?(?:/|$)"
-    r"|https?://(?:10\.|192\.168\.|172\.(?:1[6-9]|2\d|3[01])\.)"
-    r"|https?://[^/]*:(?:0|1)/)",
-    re.IGNORECASE,
-)
+    { "name": "Travel+Adventure", "url": "http://stream.mcquack.net/206/index.m3u8", "group": "ТВ" },
+    { "name": "Travel+Adventure (резерв)", "url": "http://185.195.184.30:8000/play/a0bu/index.m3u8", "group": "ТВ" },
+    { "name": "Travel Channel HD", "url": "http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8", "group": "ТВ" },
+    { "name": "Travel Channel HD (резерв)", "url": "http://195.64.140.147:10027/27", "group": "ТВ" },
+    { "name": "RT Doc HD", "url": "https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8", "group": "ТВ" },
+    { "name": "RT Doc HD (резерв)", "url": "http://tv.ttk.mx:9100", "group": "ТВ" },
+    { "name": "Viju History", "url": "http://stream.mcquack.net/101/index.m3u8", "group": "ТВ" },
+    { "name": "Viju History (резерв)", "url": "http://tv.ttk.mx:9078", "group": "ТВ" },
+    { "name": "Viju Explore", "url": "http://stream.mcquack.net/239/index.m3u8", "group": "ТВ" },
+    { "name": "Viju Explore (резерв)", "url": "http://46.53.200.153:7777/play/a01i/index.m3u8", "group": "ТВ" },
+    { "name": "Телепутешествия", "url": "https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8", "group": "ТВ" },
+    { "name": "Discovery", "url": "http://stream.mcquack.net/177/index.m3u8", "group": "ТВ" },
+    { "name": "Discovery (резерв)", "url": "http://195.64.140.147:10151/151", "group": "ТВ" },
+    { "name": "Nat Geo Wild", "url": "http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8", "group": "ТВ" },
+    { "name": "Nat Geo Wild (резерв)", "url": "http://185.195.184.30:8000/play/a0je/index.m3u8", "group": "ТВ" }
+  ],
 
-# ---------------------------------------------------------------- утилиты
-def init_default_config():
-    """Создает дефолтный config.json, если он отсутствует."""
-    if not os.path.exists(CONFIG):
-        default_cfg = {
-            "check_alive": True,
-            "concurrency": 64,
-            "timeout_sec": 5,
-            "min_channels": 10,
-            "sources": [
-                {
-                    "url": "https://github.io",
-                    "default_group": "Русские"
-                }
-            ]
-        }
-        with open(CONFIG, "w", encoding="utf-8") as f:
-            json.dump(default_cfg, f, indent=4, ensure_ascii=False)
-        print(f"[!] Создан конфигурационный файл по умолчанию: {CONFIG}")
+  "_filter_note": "группы не фильтруем, отбор идёт по именам. force_group сводит все каналы в одну группу «ТВ».",
+  "include_groups": [],
+  "exclude_groups": [],
+  "include_name_regex": null,
+  "exclude_name_regex": null,
 
-def load_config() -> dict:
-    init_default_config()
-    with open(CONFIG, "r", encoding="utf-8") as f:
-        cfg = json.load(f)
-    if not cfg.get("sources"):
-        sys.exit("config.json: список sources пуст — нечего собирать")
-    return cfg
+  "_postprocess": "Варианты одного канала объединяются. max_per_channel=1 — каналы из direct_links идут как есть, с резервами.",
+  "postprocess_group_key": "name",
+  "max_per_channel": 1,
 
-def clean_name(raw: str) -> str:
-    name = (raw or "").strip()
-    if name.count(",") >= 1 and UA_JUNK.search(name):
-        name = name.rsplit(",", 1)[-1]
-    m = UA_JUNK.search(name)
-    if m and m.start() > 0:
-        name = name[:m.start()]
-    name = name.strip().strip('"').strip()
-    name = re.sub(r"\s{2,}", " ", name)
-    if not name:
-        return "Канал"
-    return name[:120]
+  "_exclude_exact_names": "каналы, которые нужно исключить из автоматического поиска",
+  "exclude_exact_names": ["Мосфильм: золотая коллекция +4 HD"],
 
-def clean_group(raw: str) -> str:
-    parts = [p.strip() for p in (raw or "").replace(",", ";").split(";")]
-    for p in parts:
-        if p and p.lower() not in JUNK_GROUP:
-            return p
-    return "Прочее"
+  "_force_group": "одна группа вместо провайдерских «212.15», «ПОМОЙКА» и подобных",
+  "force_group": "ТВ",
 
-def is_junk_url(url: str) -> bool:
-    u = (url or "").strip()
-    if not u or not u.startswith(("http://", "https://", "rtmp://", "rtsp://", "udp://", "rtp://", "mms://")):
-        return True
-    return bool(JUNK_URL.match(u))
+  "_only_alive": "проверка живости ссылок из источников. Ссылки из direct_links добавляются всегда — они проверены вручную.",
+  "only_alive": true,
+  "alive_check_limit": 0,
+  "timeout_sec": 6,
+  "concurrency": 96,
 
-def absolutize(url: str, base: str) -> str:
-    url = url.strip()
-    if not url:
-        return ""
-    if url.startswith("//"):
-        return "https:" + url
-    if url.startswith(("http://", "https://", "rtmp://", "rtsp://", "udp://", "rtp://", "mms://")):
-        return url
-    if not base:
-        return ""
-    from urllib.parse import urljoin
-    return urljoin(base, url)
-
-# ---------------------------------------------------------------- загрузка
-def http_get(url: str, timeout: int) -> str:
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
-    try:
-        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
-            raw = resp.read()
-    except Exception as e:
-        print(f"[-] Ошибка загрузки источника {url}: {e}")
-        return ""
-        
-    for enc in ("utf-8", "cp1251", "latin-1"):
-        try:
-            return raw.decode(enc)
-        except UnicodeDecodeError:
-            continue
-    return raw.decode("utf-8", "replace")
-
-def parse_playlist(text: str, url_base: str, default_group: str = "Прочее") -> list[dict]:
-    if not text.strip():
-        return []
-    text = text.replace("\ufeff", "").lstrip("\xef\xbb\xbf")
-    if "#EXTM3U" not in text[:4096].upper():
-        out = []
-        for line in text.splitlines():
-            u = line.strip()
-            if u and not u.startswith("#") and not is_junk_url(u):
-                out.append({"name": "Канал", "url": absolutize(u, url_base),
-                            "group": default_group, "logo": "", "tvg_id": ""})
-        return out
-
-    items: list[dict] = []
-    cur: dict | None = None
-    for raw_line in text.splitlines():
-        line = raw_line.strip()
-        if not line:
-            continue
-        if line.upper().startswith("#EXTINF"):
-            m = EXTINF.match(line)
-            if m:
-                attrs: dict[str, str] = {}
-                for k, v in ATTR.findall(m.group(2)):
-                    attrs.setdefault(k.lower(), v)
-                group = clean_group(attrs.get("group-title", ""))
-                if group == "Прочее" and default_group != "Прочее":
-                    group = default_group
-                cur = {
-                    "name": clean_name(m.group(3)),
-                    "group": group,
-                    "logo": absolutize(attrs.get("tvg-logo", ""), url_base),
-                    "tvg_id": attrs.get("tvg-id", ""),
-                    "url": "",
-                }
-            continue
-        if line.startswith("#"):
-            continue
-        
-        if cur is None:
-            cur = {"name": "Канал", "group": default_group, "logo": "", "tvg_id": "", "url": ""}
-        cur["url"] = absolutize(line, url_base)
-        if cur["url"] and not is_junk_url(cur["url"]):
-            items.append(cur)
-        cur = None
-    return items
-
-# ---------------------------------------------------------------- проверка
-def check_url_sync(url: str, timeout: int) -> bool:
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-    headers_get = {"User-Agent": UA, "Accept": "*/*", "Range": "bytes=0-1024"}
-    headers_head = {"User-Agent": UA, "Accept": "*/*"}
-    
-    for method, hdrs in (("HEAD", headers_head), ("GET", headers_get)):
-        try:
-            req = urllib.request.Request(url, method=method, headers=hdrs)
-            with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
-                if r.status in (200, 206, 301, 302, 303, 307, 308):
-                    return True
-        except Exception:
-            continue
-    return False
-
-def filter_alive_threaded(items: list[dict], cfg: dict) -> tuple[list[dict], int]:
-    print("[*] Асинхронный модуль недоступен. Запуск проверки через PoolExecutor...")
-    from concurrent.futures import ThreadPoolExecutor
-    workers = int(cfg.get("concurrency", 64))
-    timeout = int(cfg.get("timeout_sec", 5))
-    with ThreadPoolExecutor(max_workers=workers) as pool:
-        flags = list(pool.map(lambda it: check_url_sync(it["url"], timeout), items))
-    alive = [it for it, ok in zip(items, flags) if ok]
-    return alive, len(items) - len(alive)
-
-async def check_one_async(session, sem: asyncio.Semaphore, url: str, timeout: int) -> bool:
-    import aiohttp
-    headers_get = {"User-Agent": UA, "Accept": "*/*", "Range": "bytes=0-1024"}
-    headers_head = {"User-Agent": UA, "Accept": "*/*"}
-    
-    async with sem:
-        # Сначала пробуем быстрый HEAD, затем экономный GET фрагмента
-        for method, hdrs in (("HEAD", headers_head), ("GET", headers_get)):
-            try:
-                async with session.request(
-                    method, url, 
-                    headers=hdrs, 
-                    timeout=aiohttp.ClientTimeout(total=timeout),
-                    allow_redirects=True, 
-                    ssl=False
-                ) as resp:
-                    if resp.status in (200, 206, 301, 302, 303, 307, 308):
-                        return True
-            except Exception:
-                continue
-        return False
-
-async def filter_alive_async(items: list[dict], cfg: dict) -> tuple[list[dict], int]:
-    import aiohttp
-    workers = int(cfg.get("concurrency", 64))
-    timeout = int(cfg.get("timeout_sec", 5))
-    sem = asyncio.Semaphore(workers)
-    
-    connector = aiohttp.TCPConnector(ssl=False, limit=0)
-    async with aiohttp.ClientSession(connector=connector) as session:
-        tasks = [check_one_async(session, sem, it["url"], timeout) for it in items]
-        flags = await asyncio.gather(*tasks)
-        
-    alive = [it for it, ok in zip(items, flags) if ok]
-    return alive, len(items) - len(alive)
-
-# ---------------------------------------------------------------- логика пайплайна
-def main():
-    start_time = time.time()
-    cfg = load_config()
-    
-    all_channels = []
-    seen_urls = set()
-    
-    # 1. Сбор каналов
-    for src in cfg.get("sources", []):
-        url = src.get("url", "")
-        if not url:
-            continue
-        print(f"[*] Скачивание: {url}")
-        content = http_get(url, timeout=int(cfg.get("timeout_sec", 5)))
-        parsed = parse_playlist(content, url_base=url, default_group=src.get("default_group", "Прочее"))
-        
-        for ch in parsed:
-            if ch["url"] not in seen_urls:
-
+  "drop_junk_urls": true,
+  "quality_sort": false,
+  "min_channels": 5,
+  "max_per_group": 0,
+  "max_total": 0,
+  "order_groups": [],
+  "url_base": ""
+}
 
