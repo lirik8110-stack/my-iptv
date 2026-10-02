@@ -1,5 +1,5 @@
 {
-  "_комментарий": "ПЕРСОНАЛЬНЫЙ плейлист: только ваши каналы, одна группа «ТВ», по одной ссылке на канал. Собирается в playlist-my.m3u",
+  "_комментарий": "ВАШ ПЕРСОНАЛЬНЫЙ ПЛЕЙЛИСТ. Каналы живут в разделе direct_links. Чтобы добавить — скопируйте строку и поменяйте имя с адресом.",
 
   "sources": [
     "https://satexpresstv.ru/apk/setv.m3u",
@@ -10,61 +10,81 @@
   ],
   "source_groups": ["SAT", "Dimonovich", "Verona", "IPTVru", "CHEBURASH"],
 
-  "_include_names": "БЕЛЫЙ СПИСОК. Попадут только каналы с этими названиями.",
+  "_include_names": "Белый список для автоматического поиска ссылок в источниках. Основной список каналов — в direct_links ниже.",
   "include_names": [
-    "НТВ",
-    "НТВ Хит",
-    "НТВ Сериал",
-    "Неизвестная планета",
-    "Кино 1 International",
-    "Индийское кино",
-    "Travel+Adventure",
-    "Travel Channel HD",
-    "RT DOC HD",
-    "Домашний",
-    "Ретро ТВ",
-    "Советское кино",
-    "Viju Explore",
-    "Телепутешествия",
-    "VF мосфильм",
-    "Discovery",
-    "Nat Geo Wild",
-    "Моя Планета",
-    "Мосфильм Золотая коллекция",
-    "Мосфильм. Золотая Коллекция",
-    "Мосфильм. Золотая коллекция",
-    "Мосфильм: золотая коллекция +4 HD"
+    "НТВ", "НТВ Хит", "НТВ Сериал",
+    "Неизвестная планета", "Кино 1 International", "Индийское кино",
+    "Travel+Adventure", "Travel Channel HD", "RT DOC HD",
+    "Ретро ТВ", "Советское кино", "Моя стихия", "Домашний",
+    "Viju History", "Viju Explore", "Телепутешествия",
+    "Discovery", "Nat Geo Wild", "Моя Планета",
+    "Мосфильм Золотая коллекция", "Мосфильм. Золотая Коллекция", "Мосфильм. Золотая коллекция"
   ],
 
-  "_direct_links": "ПОСТОЯННЫЕ ССЫЛКИ, проверенные вручную. Добавляются всегда, фильтрами не отбрасываются. Здесь каналы, у которых рабочая ссылка не находится автоматически.",
+  "_direct_links": "ССЫЛКИ ВАШИХ КАНАЛОВ. Основная и резервная. Все проверены на живость.",
   "direct_links": [
+    { "name": "НТВ", "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8", "group": "ТВ" },
+    { "name": "НТВ (резерв)", "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8", "group": "ТВ" },
+    { "name": "НТВ Хит", "url": "http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8", "group": "ТВ" },
+    { "name": "НТВ Хит (резерв)", "url": "https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
+    { "name": "НТВ Сериал", "url": "http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
+    { "name": "НТВ Сериал (резерв)", "url": "https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
+
+    { "name": "Ретро ТВ", "url": "http://vod.splay.uz/live_splay/original/Retro/index.m3u8", "group": "ТВ" },
+    { "name": "Ретро ТВ (резерв)", "url": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8", "group": "ТВ" },
+    { "name": "Советское кино", "url": "https://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8", "group": "ТВ" },
+    { "name": "Советское кино (резерв)", "url": "http://5.9.11.197:57419/chu-139/mpegts", "group": "ТВ" },
+    { "name": "Моя стихия", "url": "http://stream.mcquack.net/141/index.m3u8", "group": "ТВ" },
+    { "name": "Моя стихия (резерв)", "url": "http://212.15.51.20:8000/play/a04z/index.m3u8", "group": "ТВ" },
+    { "name": "Домашний", "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8", "group": "ТВ" },
+    { "name": "Домашний (резерв)", "url": "http://stream.mcquack.net/150/index.m3u8", "group": "ТВ" },
+
+    { "name": "Мосфильм. Золотая коллекция", "url": "http://stream.mcquack.net/369/index.m3u8", "group": "ТВ" },
+    { "name": "Мосфильм. Золотая коллекция (резерв)", "url": "https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv", "group": "ТВ" },
+    { "name": "Индийское кино", "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8", "group": "ТВ" },
+    { "name": "Индийское кино (резерв)", "url": "http://stream.mcquack.net/104/index.m3u8", "group": "ТВ" },
+    { "name": "Кино 1 International", "url": "http://kino-1.catcast.tv/content/38617/index.m3u8", "group": "ТВ" },
+    { "name": "Кино 1 International (резерв)", "url": "https://kino-1.catcast.tv/content/38617/index.m3u8", "group": "ТВ" },
+
+    { "name": "Моя Планета", "url": "http://vod.tuva.ru/myplanet/index.m3u8", "group": "ТВ" },
+    { "name": "Моя Планета (резерв)", "url": "https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8", "group": "ТВ" },
     { "name": "Неизвестная планета", "url": "http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8", "group": "ТВ" },
-    { "name": "Travel Channel HD", "url": "http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8", "group": "ТВ" },
+    { "name": "Неизвестная планета (резерв)", "url": "http://192.162.64.99:5100/play/a02t/index.m3u8", "group": "ТВ" },
+
     { "name": "Travel+Adventure", "url": "http://stream.mcquack.net/206/index.m3u8", "group": "ТВ" },
-    {  },
+    { "name": "Travel+Adventure (резерв)", "url": "http://185.195.184.30:8000/play/a0bu/index.m3u8", "group": "ТВ" },
+    { "name": "Travel Channel HD", "url": "http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8", "group": "ТВ" },
+    { "name": "Travel Channel HD (резерв)", "url": "http://195.64.140.147:10027/27", "group": "ТВ" },
+    { "name": "RT Doc HD", "url": "https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8", "group": "ТВ" },
+    { "name": "RT Doc HD (резерв)", "url": "http://tv.ttk.mx:9100", "group": "ТВ" },
+    { "name": "Viju History", "url": "https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8", "group": "ТВ" },
+    { "name": "Viju History (резерв)", "url": "http://stream.mcquack.net/101/index.m3u8", "group": "ТВ" },
     { "name": "Viju Explore", "url": "http://stream.mcquack.net/239/index.m3u8", "group": "ТВ" },
-    { "name": "Discovery", "url": "http://195.64.140.147:10151/151", "group": "ТВ" },
-    { "name": "Nat Geo Wild", "url": "http://stream.mcquack.net/149/index.m3u8", "group": "ТВ" },
-    { "name": "Мосфильм. Золотая коллекция", "url": "http://stream.mcquack.net/369/index.m3u8", "group": "ТВ" }
+    { "name": "Viju Explore (резерв)", "url": "http://46.53.200.153:7777/play/a01i/index.m3u8", "group": "ТВ" },
+    { "name": "Телепутешествия", "url": "https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8", "group": "ТВ" },
+    { "name": "Discovery", "url": "http://stream.mcquack.net/177/index.m3u8", "group": "ТВ" },
+    { "name": "Discovery (резерв)", "url": "http://195.64.140.147:10151/151", "group": "ТВ" },
+    { "name": "Nat Geo Wild", "url": "http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8", "group": "ТВ" },
+    { "name": "Nat Geo Wild (резерв)", "url": "https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8", "group": "ТВ" }
   ],
 
-  "_filter_note": "группы не фильтруем, отбор идёт по именам. В force_group сведены все каналы в одну группу «ТВ».",
+  "_filter_note": "группы не фильтруем, отбор идёт по именам. force_group сводит все каналы в одну группу «ТВ».",
   "include_groups": [],
   "exclude_groups": [],
   "include_name_regex": null,
   "exclude_name_regex": null,
 
-  "_postprocess": "Варианты одного канала объединяются, остаётся до max_per_channel ссылок. 1 — по одной ссылке на канал, без резервов.",
+  "_postprocess": "Варианты одного канала объединяются. max_per_channel=1 — каналы из direct_links идут как есть, с резервами.",
   "postprocess_group_key": "name",
   "max_per_channel": 1,
 
-  "_exclude_exact_names": "каналы, которые нужно исключить из списка (например лишние варианты сдвига по времени)",
+  "_exclude_exact_names": "каналы, которые нужно исключить из автоматического поиска",
   "exclude_exact_names": ["Мосфильм: золотая коллекция +4 HD"],
 
   "_force_group": "одна группа вместо провайдерских «212.15», «ПОМОЙКА» и подобных",
   "force_group": "ТВ",
 
-  "_only_alive": "ПРОВЕРКА ЖИВОСТИ: включена, поэтому в плейлист попадают только отвечающие ссылки. Из России проверка точнее — часть каналов может не попасть.",
+  "_only_alive": "проверка живости ссылок из источников. Ссылки из direct_links добавляются всегда — они проверены вручную.",
   "only_alive": true,
   "alive_check_limit": 0,
   "timeout_sec": 6,
@@ -78,4 +98,3 @@
   "order_groups": [],
   "url_base": ""
 }
-
