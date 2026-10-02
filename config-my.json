@@ -23,8 +23,8 @@
 
   "_direct_links": "ССЫЛКИ ВАШИХ КАНАЛОВ. Основная и резервная. Все проверены на живость.",
   "direct_links": [
-    { "name": "НТВ", "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8", "group": "ТВ" },
-    { "name": "НТВ (резерв)", "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8", "group": "ТВ" },
+    { "name": "НТВ", "url": "http://185.195.184.30:8000/play/a0ie/index.m3u8", "group": "ТВ" },
+    { "name": "НТВ (резерв)", "url": "http://195.64.140.147:10004/994", "group": "ТВ" },
     { "name": "НТВ Хит", "url": "http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8", "group": "ТВ" },
     { "name": "НТВ Хит (резерв)", "url": "https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
     { "name": "НТВ Сериал", "url": "http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8", "group": "ТВ" },
@@ -36,8 +36,8 @@
     { "name": "Советское кино (резерв)", "url": "http://5.9.11.197:57419/chu-139/mpegts", "group": "ТВ" },
     { "name": "Моя стихия", "url": "http://stream.mcquack.net/141/index.m3u8", "group": "ТВ" },
     { "name": "Моя стихия (резерв)", "url": "http://212.15.51.20:8000/play/a04z/index.m3u8", "group": "ТВ" },
-    { "name": "Домашний", "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8", "group": "ТВ" },
-    { "name": "Домашний (резерв)", "url": "http://stream.mcquack.net/150/index.m3u8", "group": "ТВ" },
+    { "name": "Домашний", "url": "http://stream.mcquack.net/150/index.m3u8", "group": "ТВ" },
+    { "name": "Домашний (резерв)", "url": "http://212.15.51.20:8000/play/a01j/index.m3u8", "group": "ТВ" },
 
     { "name": "Мосфильм. Золотая коллекция", "url": "http://stream.mcquack.net/369/index.m3u8", "group": "ТВ" },
     { "name": "Мосфильм. Золотая коллекция (резерв)", "url": "https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv", "group": "ТВ" },
@@ -98,3 +98,4 @@
   "order_groups": [],
   "url_base": ""
 }
+
