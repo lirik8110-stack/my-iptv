@@ -63,6 +63,20 @@ JUNK_URL = re.compile(
     , re.IGNORECASE,
 )
 
+# Домены, которые отдают не поток, а заставку «смотрите в нашем приложении».
+# Wink (бывшая Zabava) пускает чужие плееры только на свою заглушку, поэтому
+# такие ссылки надо выбрасывать, даже если формально они «работают».
+BLOCKED_URL_HOSTS = (
+    "zabava-htlive.cdn.ngenix.net",
+    "wink.ru",
+)
+
+
+def is_blocked_url(url: str) -> bool:
+    """Отсеивает ссылки сервисов, не отдающих поток сторонним плеерам."""
+    u = (url or "").lower()
+    return any(h in u for h in BLOCKED_URL_HOSTS)
+
 
 def clean_name(raw: str) -> str:
     """В публичных плейлистах встречается мусор: имя канала склеено с User-Agent
@@ -270,6 +284,9 @@ def apply_filters(items: list[dict], cfg: dict) -> tuple[list[dict], int]:
     out, junk = [], 0
     for it in items:
         if cfg.get("drop_junk_urls", True) and is_junk_url(it["url"]):
+            junk += 1
+            continue
+        if not cfg.get("allow_blocked_hosts", False) and is_blocked_url(it["url"]):
             junk += 1
             continue
         if allow_names and it["name"].strip().lower() not in allow_names:
