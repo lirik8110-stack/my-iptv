@@ -6,7 +6,7 @@ http://195.64.140.147:10151/151
 #EXTINF:-1 group-title="ТВ",Nat Geo Wild
 http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ТВ",Nat Geo Wild (резерв)
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+http://185.195.184.30:8000/play/a0je/index.m3u8
 #EXTINF:-1 group-title="ТВ",RT Doc HD
 https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 #EXTINF:-1 group-title="ТВ",RT Doc HD (резерв)
@@ -15,38 +15,38 @@ http://tv.ttk.mx:9100
 http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ТВ",Travel Channel HD (резерв)
 http://195.64.140.147:10027/27
-#EXTINF:-1 group-title="ТВ" tvg-id="travel-adventure",Travel+Adventure
+#EXTINF:-1 group-title="ТВ",Travel+Adventure
 https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
 #EXTINF:-1 group-title="ТВ",Travel+Adventure (резерв)
 http://185.195.184.30:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="ТВ",VF Мосфильм
+https://tinyurl.com/2ydgwrl5
+#EXTINF:-1 group-title="ТВ",VF Мосфильм (резерв)
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/10084/index.m3u
 #EXTINF:-1 group-title="ТВ",Viju Explore
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="ТВ",Viju Explore (резерв)
 http://46.53.200.153:7777/play/a01i/index.m3u8
 #EXTINF:-1 group-title="ТВ",Viju History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТВ",Viju History (резерв)
 http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="ТВ",Viju History (резерв)
+http://tv.ttk.mx:9078
 #EXTINF:-1 group-title="ТВ",Домашний
 http://195.64.140.147:10018/18
 #EXTINF:-1 group-title="ТВ",Домашний (резерв)
 http://212.15.51.20:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="ТВ" tvg-id="indiyskoe-kino",Индийское кино
+#EXTINF:-1 group-title="ТВ",Индийское кино
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="ТВ",Индийское кино (резерв)
-http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 group-title="ТВ",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ТВ",Кино 1 International (резерв)
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ТВ",Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="ТВ",Мосфильм. Золотая коллекция (резерв)
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="ТВ" tvg-id="moya-planeta",Моя Планета
+#EXTINF:-1 group-title="ТВ",Моя Планета
 http://192.162.64.99:5000/play/a029/index.m3u8
 #EXTINF:-1 group-title="ТВ",Моя Планета (резерв)
-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+http://195.64.140.147:10161/161
 #EXTINF:-1 group-title="ТВ",Моя стихия
 http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ТВ",Моя стихия (резерв)
@@ -59,19 +59,21 @@ http://192.162.64.99:5100/play/a02t/index.m3u8
 http://185.195.184.30:8000/play/a0ie/index.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ (резерв)
 http://195.64.140.147:10004/994
-#EXTINF:-1 group-title="ТВ" tvg-id="ntv-serial",НТВ Сериал
+#EXTINF:-1 group-title="ТВ",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ Сериал (резерв)
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ТВ" tvg-id="ntv-xit",НТВ Хит
+#EXTINF:-1 group-title="ТВ",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ Хит (резерв)
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ТВ" tvg-id="retro-tv",Ретро ТВ
+#EXTINF:-1 group-title="ТВ",Ретро ТВ
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв)
-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Советское кино
 http://5.9.11.197:57419/chu-139/mpegts
+#EXTINF:-1 group-title="ТВ",Советское кино (резерв 3)
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869525&extension=ts
 #EXTINF:-1 group-title="ТВ",Телепутешествия
-https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKm
