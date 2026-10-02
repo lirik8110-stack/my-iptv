@@ -7,8 +7,8 @@ http://195.64.140.147:10151/151
 http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ТВ",Nat Geo Wild (резерв)
 http://185.195.184.30:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="ТВ",RT Doc HD
-https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 group-title="ТВ",RT DOC HD
+http://195.26.83.96:7017/play/a00t/index.m3u8
 #EXTINF:-1 group-title="ТВ",RT Doc HD (резерв)
 http://tv.ttk.mx:9100
 #EXTINF:-1 group-title="ТВ",Travel Channel HD
