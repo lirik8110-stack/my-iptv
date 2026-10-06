@@ -43,8 +43,8 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ТВ",Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="ТВ" tvg-id="moya-planeta",Моя Планета
-http://192.162.64.99:5000/play/a029/index.m3u8
+#EXTINF:-1 group-title="ТВ",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="ТВ",Моя Планета (резерв)
 http://195.64.140.147:10161/161
 #EXTINF:-1 group-title="ТВ",Моя стихия
@@ -56,7 +56,7 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="ТВ",Неизвестная планета (резерв)
 http://192.162.64.99:5100/play/a02t/index.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ
-http://185.195.184.30:8000/play/a0ie/index.m3u8
+http://194.152.35.17/ntv/index.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ (резерв)
 http://195.64.140.147:10004/994
 #EXTINF:-1 group-title="ТВ" tvg-id="ntv-serial",НТВ Сериал
