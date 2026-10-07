@@ -43,8 +43,8 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ТВ",Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="ТВ",Моя Планета
-http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="ТВ" tvg-id="moya-planeta",Моя Планета
+http://192.162.64.99:5000/play/a029/index.m3u8
 #EXTINF:-1 group-title="ТВ",Моя Планета (резерв)
 http://195.64.140.147:10161/161
 #EXTINF:-1 group-title="ТВ",Моя стихия
@@ -67,7 +67,9 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ Хит (резерв)
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ТВ" tvg-id="retro-tv",Ретро ТВ
+#EXTINF:-1 group-title="ТВ",Ретро ТВ
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв 3)
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв)
 http://176.118.197.101/Retro/index.m3u8
