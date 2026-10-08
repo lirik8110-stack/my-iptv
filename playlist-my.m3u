@@ -67,9 +67,7 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ Хит (резерв)
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ТВ",Ретро ТВ
-http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв 3)
+#EXTINF:-1 group-title="ТВ" tvg-id="retro-tv",Ретро ТВ
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв)
 http://176.118.197.101/Retro/index.m3u8
