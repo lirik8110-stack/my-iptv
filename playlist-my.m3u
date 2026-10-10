@@ -72,8 +72,10 @@ http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв)
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Советское кино
-http://5.9.11.197:57419/chu-139/mpegts
+https://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="ТВ",Советское кино (резерв 3)
 http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869525&extension=ts
+#EXTINF:-1 group-title="ТВ",Советское кино (резерв)
+http://5.9.11.197:57419/chu-139/mpegts
 #EXTINF:-1 group-title="ТВ",Телепутешествия
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
