@@ -1,11 +1,11 @@
 файл: playlist-my.m3u
-обновлено: 2026-10-31 23:58 UTC
-каналов: 41
+обновлено: 2026-11-02 00:25 UTC
+каналов: 39
 
 источники:
-ok     1431  https://satexpresstv.ru/apk/setv.m3u
+FAIL       https://satexpresstv.ru/apk/setv.m3u :: <urlopen error [Errno -3] Temporary failure in name resolution>
 ok     3386  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 ok     3729  https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
 ok      238  https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
 ok     8278  https://gclnk.com/lf4JtBLc
-итог: 41 каналов, дублей убрано 54, мусорных ссылок 1932, сокращено 0, мёртвых отброшено 10, 18.1 с
+итог: 39 каналов, дублей убрано 51, мусорных ссылок 1837, сокращено 0, мёртвых отброшено 6, 27.2 с
