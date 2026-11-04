@@ -1,11 +1,11 @@
 файл: playlist.m3u
-обновлено: 2026-11-03 02:49 UTC
-каналов: 12062
+обновлено: 2026-11-04 01:07 UTC
+каналов: 11877
 
 источники:
 FAIL       https://satexpresstv.ru/apk/setv.m3u :: <urlopen error timed out>
 ok     3386  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 ok     3729  https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
 ok      238  https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
-ok     8997  https://gclnk.com/lf4JtBLc
-итог: 12062 каналов, дублей убрано 2438, мусорных ссылок 1838, сокращено 0, мёртвых отброшено 0, 27.4 с
+ok     8814  https://gclnk.com/lf4JtBLc
+итог: 11877 каналов, дублей убрано 2441, мусорных ссылок 1838, сокращено 0, мёртвых отброшено 0, 27.4 с

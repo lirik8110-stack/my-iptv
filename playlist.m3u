@@ -371,106 +371,6 @@ https://river-4-473.rtbcdn.ru/hls-vod/5royGd3pjrGNSsHvJONlcg/1794083263/2470/0x5
 https://river-4-475.rtbcdn.ru/hls-vod/fgBEXLhnk__pf2-vF7VueQ/1794083276/3546/0x5000c500faed2739/c13a85d615f641e39510e04883a12555.mp4.m3u8?i=3840x2160_14857
 #EXTINF:-1 group-title="4K VIDEO (✅✅✅)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-24/af/3d/af3d36495c374850f3c4ec5794985847.jpg",Греция 4K
 https://river-4-434.rtbcdn.ru/hls-vod/blNMKulSosIoLFcZT1EDNQ/1794083274/2604/0x5000039ce863fb05/de0b9c989c4647a9ae665eb02c797dd8.mp4.m3u8?i=3840x2160_15900
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000144_BlockbusterTV" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Блокбастер ТВ RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/166/f5edf0014eb777cf3c61b5798e7fd96593c6123a8348f40dfff1eadf6713b449.m3u8?sig=1e948912bd92e29c53f3d7eb4026037cd01e86ae7d210ba89ee7349f3443cbc4
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000219_CinemaTime" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Время Кино RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/186/26f7340386a99ff7b27b6a248c2e1c50d9ecf2ee667946f6185bc4ccea135637.m3u8?sig=9c9f8b9e9faa03b58d27f3f24dafc692fe2fa1a9590edb6e357ac94dceb140d0
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000139_FilmGalaxy" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Галактика Кино RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/163/36ab407180e7954add01bd7752674d45bd5ad0074f2e4d635176ef0063a96c4c.m3u8?sig=65bde9821f099071931e4b01c32e15166390db2a43f3002f3b4e637ec7ff6e51
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000102_GoldenScreen" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Золотой Экран RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/147/1e7af3c10b60a76a50a6d3efa4220513010c496645855d65348510ae083f2bcb.m3u8?sig=1efff525deba37abf215635df693357d1572ee0e259a81165a9dbb13323da184
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000116_KadrPlus" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Кадр Плюс RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/154/c2a4f2d6fb17963b3de4ffe98c22528b45226ed7a0ccc6ee2cd1b10e981c40eb.m3u8?sig=8e1cdef4b438800e00010195e08920345785304759ec44dc031c5ef216c29ea2
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000205_CinemaNova" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Кино Нова RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/172/a9dc0f6c18c2243768444612cb943ce699c1cc537a2e91eb8f71107c17d7df07.m3u8?sig=3f7d122a0c4150d59d2a4f0a2f9c52568ec7dc4109152db5ce92348aae3b56f2
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000203_KinoArena" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноАрена RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/170/d615331b62dc4099d9819827cbd07445e3892a22951ac4d01bb60d9cb41ae481.m3u8?sig=b00f4a74018f0daa668f4080ad1b19b6b35769f62dd7d24270b62d86a979bf09
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000221_KinoBaza" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноБаза RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/188/5b1be98d73787b064ce14750f5927b89ea2f6f2b3a162421f5880980f279c263.m3u8?sig=405beaf8576da6c0bb89285f62561601d79f78a8c15254e50a1f9737f7cc0058
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000135_MovieWave" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноВолна RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/161/3bcb1ca5e84d20b666e043b7096f8ab84c57b8d7c6ee44f91c3ffc823127c307.m3u8?sig=17524f651f7f14ac6aec25df32db2676f180f306b30ec6f2c21fa6faf6989e15
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000104_KinoTime" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноВремя RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/148/e087954e49714f5404dda109170e80b43d3ad9de021ee85a2f36867998660945.m3u8?sig=cd784b6f073b5749d316a08fffd94df81179e8c3b29f71827f3fcf184bb1968f
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000113_KinoHorizon" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноГоризонт RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/152/6d79a6252f720736783b58b46df711add16814362787e3fc75995b480c1dbb46.m3u8?sig=bf59e6bb180dd22532d973fc819b408d860b0de628b8c676accd4c5148e234b4
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000211_HDKinoDom" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноДом RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/178/63a2f2709aa16ce12162130111566077b8f46e721c6052761f6a67f3e89c1f43.m3u8?sig=28113fb622e56e622500ba30ec6f8b44027fc65a04038c70fe0410c57e0cef3b
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000143_KinoDrive" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноДрайв RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/165/633427bf3a7f916bf39f791f292c2363538bb0ce30a931cc5a1b15a37ddd84be.m3u8?sig=880ce25d342b6d7180fe74a4470ef040b76569a8ca11186520c9e83670f1c2e4
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000202_MovieStar" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноЗвезда RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/169/2f649e0a56ce2fb8996d7407b8d089ad658b5de51eadde899d9eb87e96106427.m3u8?sig=73dcd3b627e53e9fc86130e99b9d4952bc24ea6e1e4c88e37cff722a096a5cfe
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000223_KinoEmpire" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноИмперия RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/190/03d68b5478647997f7adb5b4470c28eb967e39b77f9f547236e2c25acb0190f0.m3u8?sig=1f451edf0f992528634cf936007f9fb55006fa86ac5e2e92d3cd61ae36210da7
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000209_KinoClassic" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноКлассика RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/176/d6b9df37f36013d9a5bfc2e22e1125fe98e3db0b2041e8be0760596118bcb5ea.m3u8?sig=00c1597f74b18ea899fa794159b973a7fa3555853b2e0de0689c6e7996afb44d
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000201_KinoLine" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноЛиния RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/168/f5d3b6b34377cf243307d9103f0ab1444c88cf104332746465a475244e83795f.m3u8?sig=70747b0fa33b09f49ee609ac7a7049a577348d8ebb9fa769aa0244b7e7a60c06
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="009999_KinoMania" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Киномания RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/195/dec4475ba8902f0abc6464aa867e36cfea570426963b7d9743437e91166f017e.m3u8?sig=933cbf50e1a6c11a7aa679bf482edf01e92fff17880ec76aab6f815d3094dd89
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000132_KinoMarshrut" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноМаршрут RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/159/5b781958b35f6aa59705707954dae60c6836fc73485af5d4e1196de077d15e55.m3u8?sig=18f7aa987a089909c429b2cd3326877553c09a53a21ba883a95dbd84b33e1de8
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000220_KinoMayak" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноМаяк RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/187/564ce25cbe7b808e3e810edfc66e309c309afddcedac355d92cef332e5da4f01.m3u8?sig=121c63785045ded862e24f80802fb2fc52c1912cc0a5e12b46e548d183e182b0
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000208_KinoMix" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноМикс RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/175/a349739c1bce49976fce3f54081f59f8c5eeb58949e9a68beb887ae5e0b71b30.m3u8?sig=6445bca47b8e385bfc813857b3b9c860b680115c987d17f02ef7801d6abf445c
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000105_SerialWorld" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноМир RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/149/ebc9df140e8a2a48cf1d257ea7996fc34dc1803b7ec415ebd7d2e4e0ba9261b4.m3u8?sig=030a7932726b866f2a2f0e77c75062dee838f2272654fe07436ddc07136cc02e
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000213_MovieNight" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноНочь RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/180/99004793aa0e63b1ef2e13297c984256aeae09de7615bdd856d34f2128d3944c.m3u8?sig=dc1f0944fbb5b15baa1a3acb44f03ade759e5c994417b04ef13d61e44b24de99
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000137_CinemaOrbit" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноОрбита RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/162/a0b4d996ab3941d570873fe5768e1d4a35e07a2eae4e1c7c3d67cb57127ae725.m3u8?sig=a68d76f66c74e50be5485e24bb9175d58ac510792b8e0ab4ecabf535d9484f09
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000212_KinoPlanet" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноПланета RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/179/ac3785e220db2faa9c081dec03f707a7f8b80de0e333356834ca9173d15676c7.m3u8?sig=390e7aea8d6348285da18dfaf5233f0ff67a46020adc88efc1de2cf613e49b50
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000214_KinoPortal" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноПортал RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/181/74c40a6b68f23da160cec4eb203d8cf9093196f36533157748f30f9f1a903ac6.m3u8?sig=c84ffc8933492c1ed3569f86a66d82926b81942c856371fcf56ab8e0129d3177
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000117_KinoPulse" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноПульс RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/155/04f6b240f0a7cae12fadd9c7e7c7eca606b075d0b48e54528047eaaf964bb21f.m3u8?sig=d31c0812e6cfe50bd3c0e3cd07102aa9691f213728893f8f1056a082fa7c2ff2
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000226_KinoRhythm" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноРитм RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/193/6b7a4c3e45b8d335c713d1378f96bb67892f2e39fd282ae70b10641b9845c4fe.m3u8?sig=e82f61b5cdc82c6fa7a669c416a8cef94951830545994369f24b70d229ffd250
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000216_KinoSvet" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноСвет RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/183/dbf925f3b0cb36e858f9b5879f613bd606ec35ebdd7c8a9cc9d92542635877d7.m3u8?sig=e80156b6ef71e477f832f0cbd1e82ace1526619bd207fc27f40dac36e7ee6c52
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000141_KinoSphere" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноСфера RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/164/cfda7290e0f231ace9e08afcb0caf6c2d6fea84573613de459261a2b7d2775df.m3u8?sig=ad407fdb6bff9b2e5bba170b5b01fddb76430a227684a8df0b970383fa6ca935
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000206_KinoFocus" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV КиноФокус RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/173/74a1b0a4a34096c428c4d23aa525e5152f02235eb7ca40d5b41333f84ea4ec6b.m3u8?sig=84427d1d377ebee268dfa3d7e4b38e4878958c4a569d7978d55c46d13dc8228f
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000133_LegendsEkrana" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Легенды Экрана RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/160/23a9b31ad5247e81e8e46a07b0c62b4e01ae2c20c5bbbc07a179dd67c8f61a05.m3u8?sig=eb95b2e1fb4d64df734e1ac3f6d2b3585daf5bad570317af525fae08887a9e03
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000225_MovieLine" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Линия Кино RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/192/fe43eddde9e9d507b56f174dae8d48f3a3a12b59acc446391899a355d16d93b5.m3u8?sig=3fb5523937a1352c7b0fe8ed8a250c1f2801affee03a7ffc3e330abb83e6f906
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000101_MegaKadr" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV МегаКадр RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/146/b8dcaa73bccdc7a9e7b63f28abb3386ab09755985e60345a042e0d383b294e59.m3u8?sig=644e2b80b184ee32fb950bcbc3ccbd370b20984833822ccfc801dab028eabb49
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000130_NightSeans" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Ночной Сеанс RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/157/de98a42a8eced167356fd0e435bc44e435154c3d6eb98ed3f6c0dd1451e5a16b.m3u8?sig=48ad7b4a78a06881e73e40f18cee746c7d8770bc701809fc40d4c46b8fc0bafe
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000218_SerialPark" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Парк Кино RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/185/f3d82a7a00e620ac434185e6332eec106ea2069999f622ac5c959ebbb138c2b6.m3u8?sig=714916d6b8220a0a9fb9cbffbef3888178c943c776fe3d784adf7d0bda5393ea
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000131_PremiereLive" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Премьера Live RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/158/13777e1f435d4343ed8ef4e0f337215b6f54aa09a99f2f9ecad93f043fa41ef5.m3u8?sig=a85097b6dd51414e0d54ce18c245d6563a56d3aa7e7d1ea9ffa8c78845cd5e2e
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000227_Seans247" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Сеанс 24/7 RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/194/f95e8bb22ee8dbfdca592c8c757dd11e3c5dff8088642cf8d247ba1358dc0305.m3u8?sig=70e3cbbc9f7ddffedd7e8351ddc9721b0fcec81341f9fce132d673059585a5d1
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000210_SuperSeans" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV СуперСеанс RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/177/bec5b5c5211a3c71ae253d347f87c8d386a41d1d0f30e17c795fc51a5f11f78b.m3u8?sig=5a0040487fa30a010c368bcfaddeaa395caede791e7328a632862f951d4aa625
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000115_SyuzhetTV" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Сюжет ТВ RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/153/700b6eec3c1fbc39bc6d3f4273973fb2771111c77fafbd54aa00c5d4ae48cb0e.m3u8?sig=e39031f48abac42dcb4133ba92afbcce3bd90d341ceef5ee090e14edda74572f
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000199_FilmKanal" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Фильм Канал RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/167/72c5cb0c9ea03970e1ff8aec4ad45753a8fb59ab660f8c09fcccc583da9599ed.m3u8?sig=6c7f1a088e1daef96bc46256ed0d1c34a7802f0a376ef0db8466cd06a5f3abdc
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000222_FilmZone" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV ФильмЗона RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/189/1a63365983f092ae335d90d304469ba55eaeb0a4fb0883389096eb84874f0239.m3u8?sig=736b290b4bef89d8f66e5ae8a2fcd718e56d6a9dc9881ded6f12b80874f576d5
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000110_Filmonavt" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Фильмонавт RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/151/e57cc8b54fdd23fed1376086fd106767da669fe96b75451d7eb38b79f4890f67.m3u8?sig=9c0bb8a3893a6c855aab92265f8f0556ad8763a6a11d511ed6d2f12b72cf386b
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000207_FilmPotok" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV ФильмПоток RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/174/60be8ae4ab14bdae725bfd5e0016e9fd3577474a0f734aea1f3ef722755aca15.m3u8?sig=3c44199d1dd0421267358660bae1c2e84bc73d3ff6ac0ac6f9857f3e0f03e076
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000217_FilmExpress" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV ФильмЭкспресс RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/184/922811011d5542e4205e1c76c56a68dc9c1d623c75319509f3cc89a8d84839b6.m3u8?sig=dcd0910de589cbbf51fd3bc3cce4cdd618df7ab81023b20cf9417449a2c303da
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000109_SerialHit" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Хитовый Экран RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/150/112d6c2bb0f7b029d093c29c7236c0477754309b045737a469c73205ed06cba7.m3u8?sig=f4e53b2bc74dfb5b54e49d94ed8d58e0689907c14599ebcfbe61d9c8b7749059
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000121_Ekran24" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Экран 24 RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/156/305e4fe46c89b860017abb7a6a43ad5746ac9de609edc45cf5a6d079e4f55227.m3u8?sig=d1a24ef07cca43c81b47b98ddc25eb5005f924fae8e08b360a994208bc1e5919
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000204_EkranFuture" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Экран Будущего RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/171/feb3d8ad0585bcb9dfaae49558df69a1b8304890b023f4ff42090f654b8d52cd.m3u8?sig=79c0c8898c188d3e9c16246613f839ff9c644ba273028060f6bd147048f7640a
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000215_EkranPremium" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Экран Премиум RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/182/c10d8d109d480508b25e56a4cc02e9b9293b4d0128e50903a0d7be0145931b1b.m3u8?sig=fe6c909260bfc482f12ac08f475d02ff64fb3a7622a7f94cf6a3181a079ebb00
-#EXTINF:-1 group-title="Bear TV RU UHD" tvg-id="000224_EkranHit" tvg-logo="http://138.16.142.39:2095/bear_tv_uhd_ru.png",Bear TV Экран Хит RU UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/191/b266368e0da12106b7609b41f5b41556c317b3955dcda2b7b0009afab3d1c32c.m3u8?sig=4ee556d7b1eff3e26fbd0ed04a982a85060a22751a078cbe5b619bdfd5c4d820
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png",HGTN
 https://v2.catcast.tv/content/34251/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
@@ -867,25 +767,25 @@ http://dmitry-tv.ddns.net/hls/CH_3OOPARK.m3u8
 http://dmitry-tv.ddns.net/hls/CH_AVTO24.m3u8
 #EXTINF:-1 group-title="Dmitry-tv",Арсенал
 http://dmitry-tv.ddns.net/hls/CH_ARSENAL.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 1 (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 1
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 1 HD (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 1 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1HD.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 2 (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 2
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 2 HD (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 2 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2HD.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 24 (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 24
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 24 HD (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 24 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 3 (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 3
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 3 HD (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 3 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 5 (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 5
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Беларусь 5 HD (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Беларусь 5 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 group-title="Dmitry-tv",БОБЁР
 http://dmitry-tv.ddns.net/hls/CH_BOBER.m3u8
@@ -1093,9 +993,9 @@ http://dmitry-tv.ddns.net/hls/T2/CH_OTR_4.m3u8
 http://dmitry-tv.ddns.net/hls/CH_OHOTAIRYBALKA.m3u8
 #EXTINF:-1 group-title="Dmitry-tv",Охотник и рыболов
 http://dmitry-tv.ddns.net/hls/CH_OHOTNIKIRYBOLOV.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Первый информационный (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Первый информационный
 http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",Первый информационный HD (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",Первый информационный HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 group-title="Dmitry-tv",Первый канал
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
@@ -1325,7 +1225,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS-1.m3u8
 http://dmitry-tv.ddns.net/hls/CH_START_TRIUMF.m3u8
 #EXTINF:-1 group-title="Dmitry-tv",СТАРТ ТРИУМФ HD720
 http://dmitry-tv.ddns.net/hls/CH_START_TRIUMFHD720.m3u8
-#EXTINF:-1 group-title="Dmitry-tv",СТВ HD720 (Беларусь)
+#EXTINF:-1 group-title="Dmitry-tv",СТВ HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_CTBHD720.m3u8
 #EXTINF:-1 group-title="Dmitry-tv",СТС
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
@@ -4045,292 +3945,6 @@ http://stream.mcquack.net/489/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club+Реклама",Шокирующее HD
 http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="filmy_novyi_god_rus_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Clarity HD Новогодние RU
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/1/b154ef0d8de55e7b7055dbe9553de5c17f04a967e218760d5eafddffed0a55c2.m3u8?sig=9f5a824e75236df781ae274df5d87f75bb960a4982375a855663bff6c9d4a493
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000006" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X 6 Кадров HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/78/ada9edcdf39a085eff68338b145e500f8d467905937015f2e2b1f07a1733f260.m3u8?sig=6cd2c8f53c09d6ff17bcdde077de28b895669ea9a847f96453d77a940b327bae
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000013" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X 90-E HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/79/f0786322f63ba88697af1caa06c359bc2554e7a4cf30374581e5d5ad2ab668ca.m3u8?sig=0d2faf6054ac28ec289be4cac7161ec7c1263bf70bb87e0532384602ee13082c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Ambiental_Planet_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ambiental Planet UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/80/b71c9fef5cc447ea422adcd3c36d999a002e3cd77362fab7b12653ad8d621f1c.m3u8?sig=6dd9dfef9aedde5ea22f512fd6dd629358795409f21efc35bb2f3061f3e916f2
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="angel_xxx_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Angel XXX
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/2/d5765947e1e7cc77da20a3f7dd2a269a8f06b1bb7af4b58038d66e9b2a5d2835.m3u8?sig=9a719acafb24e139e0ace59da39116121609c895f2ad6234f4a720f89fb4e430
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="anime" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Anime アニメ
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/3/622e39cf5cb096008dc6ddbbd7b3705d8882921dd94832ba439a223777a6d193.m3u8?sig=6e8d7d70ca93b4a0dfb3aa8dd4f036408cf7f97bc48bb40e574f9ae530640f34
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="asia_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Asia
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4/e9addbf99966b11a66f88b6ed8f7a8c7a35a854e871224549bdd2bbffcbe02e2.m3u8?sig=5594952686c7c518b9339b43ad3928dcde530488052beb2a3fb95c8801f2381c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="AutoMaster_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Avto Blog
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5/1b724ddd5d90bf80999180f977638568bbca599b5b662a69b9b6071939e5c538.m3u8?sig=0248ea3a0d114e310ed603262ffb1713f182cd9206e9afa056d81ee4e3384546
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000009" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Beast Games HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/81/ab2a430cd669e704b1be366e1773c184d98b63c95c6e115ebf4a8b15b0ba09f8.m3u8?sig=36f83f365e4a81b9b7bf44ad286be0267a43209a64f03a0f6f4b3ea67e869159
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="BluesString_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X BluesString
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6/87e822f3a56cc5593976366897d85a587cd6e2bba208ee39d77ac5fc00cd818e.m3u8?sig=afd2645787bc36a4821fe90f6e3e10b8cf61b28f9930f5b0a61eb4c176ed21c6
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="bollywood_music_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Bollywood music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/7/20f6a376706bf14b1c990094b88eb7c1c9ba9edfa3115155826e2a638246a1cf.m3u8?sig=ceb6a634851476e1dbde3a74b296e190250fab3e175f056caeb86b95512ab262
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Cafe_Jazz_UDH" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Cafe Jazz UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/82/d06b125b73932997da097f5cff64d8a73106617511528365329ee1043fe98b71.m3u8?sig=cb8479844d152911005cf94bb907c43ecffc8aa5faee485a7c1755eaace1f2a7
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="concert_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Concert UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/83/0b9eea72e1bb6ee74ea31c85864d2d36508773ff099507366135b3d42d23257e.m3u8?sig=0aa452062ffe35944c629cc83e5e300938592e6b3620ed3ed39c18a5cad9e736
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="concert_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Deep House
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/8/ca910d0f478e135045a96cb86c333df377078cc6139f6aadcfc80a5e6c1c8013.m3u8?sig=e290974ae83f51368a76d5ca8e0d2f71d04efc42bf353d58d6387b7489d6b364
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="DeepMe_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X DeepMe
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/9/5597709e969ae550761c82b3b32848f18c7c85bd9602f3ac5eea0e0024347989.m3u8?sig=5b4000c8e293514b3ec856ce33a2176281bc5a6240ad713be7019100c0f02658
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000055" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Enigma Relax UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/84/65c98e7413e6dfd67d826065770149ab8f1db0ff346e988e2b7620c2cbac2228.m3u8?sig=fc6a737cbed21bb5dcb962c6c5eee626c9a02cfdb704a8f8acdfde0bb2929ebe
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="x00006" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Erotic XXX
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/85/b8091da3e62830ff126eb043ec69a6f083786b9cf0d7bb245f2f3ea4b3049004.m3u8?sig=a8b2a39a89f5db9b408a9a2702c0983fb416456903d092b56b44e5a4046f3a02
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Francemusic_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Eurovision
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/10/31edc619ddd7fbebe3db74d9ebcdaf67ee714194960d80f2fa204a77841cfa04.m3u8?sig=4c5fc21974603a642a1c876b1b33dfbba1ddea33021b8463a803cf3006d97bad
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="GalaxyFilms_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Galaxy Films
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/11/fb6e72db6dac82471564dbf1c7a190586cbbccf0b0023b21232961e777840b7b.m3u8?sig=ec919e48228c046fc5d7f38c037c46cff995d76ee27e7aa41df52e08967fe26a
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="gamefilm_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Game Film
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/12/8ca91af074e1117c058c1901fd6828f24d8f7b72adb70ae8997eaeb828fec640.m3u8?sig=3e822b10dd077d0b23e3c6fb307cc4a76f4e68a8051656252a150b2aa00b4155
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="ghibli_piano_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ghibli Piano UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/86/fe3a1f47eb0a65c63931c20d55c3544982516e88fc821b6f0933be0b1b635d71.m3u8?sig=d9ac111056641b4696dc437a1fe3eb67af43f593561a3769236c0a9500e08f42
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Play-x_265" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X H.265
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/87/29a2305aeab6326033b919534102ec00e866b0a7078d62b066eedcbf1a417ea8.m3u8?sig=067177bc32ed7b5319f2ea12f32c5006f9480b3658fe0a212e5b101654bdc5d7
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="NBO_series_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HBO series
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/13/cc6e2c77811396b44209a7e9c435b6afa357354f162f54da27d4d1fe83b9087b.m3u8?sig=35f71156f8c3635ada56939e2dcf2fa7a57f2c9996edd915befac9b3c178576b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0001_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 1
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/14/58d0a6ab8ce3a77fc16eacf5cb8dd20d1dd231bc9dbbf76b5e4b87fd12a5c392.m3u8?sig=d06912d172c7065c504b55bd2629000c8da39bb0e03c04425c0668325594afc4
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0010_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 10
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/15/2f5e8760495ab92975ff8aafdee55fe197c03ab4943c0ddb6ed5dd2cb2a4888b.m3u8?sig=86b0a5c91e145dc0fee0ab6e65c2c5909714ea524039edac5e9ef5d48bd8b632
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0011_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 11
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/16/fbe2392dae8dbec757993d00da221b0941899d475a3f2fc84dc7faa97a97dbe0.m3u8?sig=2f56197139249c21ff8aa94e98b415623ae46c2c4ad5633d61e3014b8b1efd12
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0002_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 2
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/17/07a98929d2d0dea4cc0d68b3ee67b4c62cb0e3b8a0bf66b83cb647ea2f7f5aea.m3u8?sig=259d2b23d64732613588715fc90b58e0a31ef20718ba049a102fa1ba9c163ce3
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0003_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 3
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/18/19e35aa4b201a62abd3e57266036cf72284b5e0f54e45c8ea3ad50ea6d59c671.m3u8?sig=1ff47cd6263edec43783ed8b2bb97ea250aec426c5a06bd9d0fb38bfe9d2994a
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0004_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 4
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/19/3621f70e76d5773fbda9397eccfbc9c204e0086998c5fd658d63092d2b8f650e.m3u8?sig=32d21fec48a464c3ff89aee498039ef79ac256b09a9a5cd95d8b6a4627dcf05d
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0005_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 5
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/20/0a5ee17da448f48ab1dcc8e79fd825242affc2c09981140e601bdfac3e7a1a38.m3u8?sig=9b76626ddc540494ba81162114453b300b459b062f0fdc0555057d4b28a8b03c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0006_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 6
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/21/23dd696e2939767c251fabf8233514283b696310ceeee45a9ccf136c43a3ff96.m3u8?sig=dc5598dca1eb0f5c52dabf0787b42a20a0baf009f64c5ba77680d928af33b0e9
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0007_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 7
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/22/7d877870edf318645dc113b6e8870cd2ae378ef452aa08d8e45a486f2a65a075.m3u8?sig=458f5131f5cf776fe0b027c27d2033fece6ffd46922d400970a4ad3c1aae0184
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0008_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 8
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/23/65abe930e9a657a6b05954f180545cdd4825b7ed6d54863c0c8db3d0d29d8751.m3u8?sig=0587c115b1073bd251ac56008f4cac860bf2050356077b4d8cd8e8309e72df0b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cl_0009_hdr" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X HDR Cinema MIX 9
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/24/3b207e03cdc201d2efbda0e771501c3a2d712722430d653f2f5af1c3bd4d0096.m3u8?sig=7a6766564a7f26ffeca2adb091b144ce8036d9bda456327e50fbb4750fcac24e
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="heavy_metal_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Heavy metal
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/25/6063a5c633ce1dbbcb958f332293258534da30231c89571302ded662dd48e564.m3u8?sig=78efbaa22f89fd30be72d76fe47d3d1ed147d8c1a4260c8d989a83a1e74d50af
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="korean_music_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Korean music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/26/9c874edf7a9203e8d800f7bfc25bee3426f4c0fafe66d62a1e9fc11bdb5a30c7.m3u8?sig=fdba5ea309f0dbb1db48af9b692f6938499b8c52d6ab6e79ec1bc5062ab41a82
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="kinoids_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Kинодети Cсср
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/27/9447e456122682ac8fcbd33f26354b9323daef470f6e07a0958ce5bf0d09ab4e.m3u8?sig=5ae1d2f63b819708e29c6f645bf78f40d3fcca5db6fcc51821b8425d52387f16
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Latinmusic_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Latin music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/28/1d0d8533ff66591fa951ad38c7027a6a9eea2081912eae11e66b848722385356.m3u8?sig=ec8429e90669325b13b358b233923d03b6df7ea46bd951ef839781ecb8784881
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000054" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Lofi Dreams UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/88/82ee303594863552998ed35493b8bb91a1b3eb3535af291ff5c1511d78819a65.m3u8?sig=21e33075fa5d5ce7ac1c146ed39adb7cea8cd1e323c034003c88d5889473ddf9
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="marvel4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Marvel
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/29/7a6cacf9c26bb88e0f83895c34075e197d7e4748fbd89575797fff581c1f5488.m3u8?sig=059a2d8aab199bb5c2666182578adf51da91ae08ae4e1b3ec405de342b78521c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Netflix_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Netflix
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/30/e58f33b7cecd761dbde5678a2344d25789630014cfb9947f1830b4ede8ecb367.m3u8?sig=004416b72c57dd48e41b20380d0db7412ad204408d3608723c8b0c49a6a3b711
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="RemasterWave_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Remaster Wave
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/31/38c883bfd0c8af85f837ff504567dd34fd76fee7aee4e7f5ecbc68b214c9bc42.m3u8?sig=8dbfe279df259cb9fba9cc15bc5e81e686f0bd346a782c2e37b6a56e0104ffc6
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Remastered" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Remastered music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/32/da7b526eb691b2ff029f425795b2d06fc706b0c38f3a5f0bb5b1b9f413ecfac6.m3u8?sig=1726355112ff0dbf69e3697c280e5df6679bd969c7f271af4959707b7a666e82
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="x00002" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Retro XXX
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/89/8cde2d3e5107216df041730838d6dd1f8476ce085731414d022566a24d83a2d0.m3u8?sig=b119874d187b29589abb471b912d716a08a5a1a5e2beb6f7402785958b0c9c26
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="russian_music_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Russian music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/33/388b566f0f28ee3e4e29d9187840973567cf23b31fa704a644ec281e63ad023e.m3u8?sig=0cf1aec27cfcbb7aaa52b59df0bdf4e41a333a8c5c35cbd69c10a138ead4af2b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Sony_Music_India_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Sony Music India UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/90/80fd779a10eef392902f342642690f7dcaffebd3f449bfe11258388c15f738d0.m3u8?sig=638de0377e6e110d072228c08ab7d99e49141858f050782e2090ba9a1d3976dc
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="x00001" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Spy XXX
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/91/b72dac5cfd15df83510554b546340f41f009b659b04755c6321f39b23bce865c.m3u8?sig=59dbc5fda684d09256eec3b6cf09fc37ae7011b33647637e4193014922e906f2
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Stunning_Animals_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Stunning Animals UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/92/14e52230148dd7f6ff03fc689308828e49b586dd56dd29e447e84800d4ac20b7.m3u8?sig=286101e61f5820d843afa98254e0f9ec1cd0009b355ee2c80eec6e7b1853fdc4
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="travel_dok_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Travel blog
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/34/9e932f325705dc853cbc853e33a86b4547392d19b7f1f417bf5ef819d3b5f78f.m3u8?sig=3e6f58bc7dc42ae9482c374bcbda6b8d718a8b405620d98aee76212ea93c2dea
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Ua_muzik" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X UA music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/93/f514cae24d92ff01328e81a7b97bea0e6e589ef99060c688fc7f04bfef36e6ac.m3u8?sig=e01357f58c0b22231137b90805c7ca929110dc52bdce0b0f409196d5be9c4314
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="ufo_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X UFO
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/35/52c24f7d203b5ae959203bbc0babc4b85cf93ae2f50bd269d2c891f285d8683d.m3u8?sig=bf70f1d9a1fc888533cdb0d2f74d8c3304aeb2acb76eeeac6d4f8142fa9e7698
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="music_ukraine" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ukrainian music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/36/634a053a7355cf37e9e5562f5a2e50bec5df765bfe07c3580a39a0cffc70eb9b.m3u8?sig=923a5a699c8c9a931c1105c02d7c02939378ad1110fd5836e7ef4e45743cccc2
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="UrbanBlack_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X UrbanBlack
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/37/bdf6f6badea898c2eb370a93980f74613d418c4f0d321c0930bd4aaf2be23d50.m3u8?sig=438dea51ab7ea3e60bd840ee3bfafd15d0ac0d87a6ceedde2c680ea46d9bdffa
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Vintage_Songs_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Vintage Songs UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/94/3bf43ba9a56e341da86115e74b3680b9aacebe533816e651927911cc4426d0b9.m3u8?sig=d9c7fda9d524e70a44748dbc5b630408fd0a27eaa3d2f7507fba2844ab46fc3d
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Walt_Disney_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Walt Disney
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/38/8f2025f0d60d70b78203b7533f780f0729065963ad09e8dc54846d79dfa8daa0.m3u8?sig=ffba69c247df457f4c19c9f3524b426fdecb0ce6f4147e9c8794e8836256ab7f
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="music_1_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X World Music
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/39/a75821a0dc8be2ec8047d16f3631e0b530336b369b324b6da2473df417fc2e25.m3u8?sig=2603193c3e83b1d1670ab74cbabee1ae845390d6460cff7b596ebf5017745e0e
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000018" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Баскетбол USA HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/96/e699b86b993845018115e727ebe205776a496cc1609e4b33c790c61c5b723c1c.m3u8?sig=f4986f58c280fef358db6fa873faa83d5fbbaa8b4e2ee4b85d1d70a8f33bc601
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="combat_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Боевик
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/40/0be3c25999e27351694c2613e13e8f09f1d1a9a0478d1915defd4bf4dc4b906f.m3u8?sig=5f548e8cd5e1794746c3343928459a7b9fd0875afcce25e43738c3fa730fff94
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="boevik_vhs_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Боевик VHS
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/41/e2d6b00bfb8b03665f08b022eb4a07ee5ee8189f9bb0f9b56250220110056f06.m3u8?sig=61f65d7635f2b8f344c01008134bc4e374b0eb7a61023cd8a1ec93c78ed8df20
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000004" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Военная Приемка HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/97/3c7a2416daaa680c79452146f2dba0f8250f959e5eec663f5de3ffdfae0307d7.m3u8?sig=e1eabfaff2429663a151b6e91209291c59a0177e53fa386d6934092ba64c9580
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Vselenaya_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Вселенная
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/42/d697f1cd13f29a021d5b5fda8dc77c5e41735bc1704620e850574f4e189b09d9.m3u8?sig=2a0052136692d26d4e5b0640f16f5fcf0c47a8f316e1efa81d1d546eedc48d29
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000003" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X География Уральских Пельменей HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/98/c59698d322f1245efc65a82ac3bd83a9e6a0b677ba1f48b0c519b2528f572011.m3u8?sig=dba16857a1f7e5c4234ec9d5259ae6b79c9d0eab0b26ff2fb0d53343972219f9
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="relax_fireplace_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Города
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/43/79b4defcf923ea6081b742e0e25833db3c4c311ff9095f0d9acd63fff0428339.m3u8?sig=5c97245e526ffc8f2cdb71320a23b7b95943e652176c7fb1e91cb2eaa9339bbf
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="dramas_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Драмы
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/44/6fe4f9bbd772362e7bf36971b7c88711b6c7184c5a8e7e3c42e0a13c133f39fa.m3u8?sig=b30f3b75909a4c530fb1116d53590b8138332cccc9c090b18ba850e5a910ae88
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="martial_arts_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Единоборства
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/45/e0a1739770f1d54960431d3302ee587e7484e5cfc858a0f57165a9f8b7a6cda9.m3u8?sig=26b59f4e97b93023deb5b8fede9691ccf4d1510f01799d1cc682ae2eb4cf4957
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000016" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Женский Стендап HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/99/bfc840a9146da2b9b96485908c1c30fb8572275d2a5343fc65f8cc293552ec19.m3u8?sig=01c839cf18791e627d88105ad6c54e0c1879b85f0fcf08525df090d5541ed568
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="zapal_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Запал
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/46/24d74d2066d080e3929ea6fd6304e3e39b85835c357404f124618d5cb17b5a7f.m3u8?sig=9daa6b00d595ff301a21f32078d8604fafbb50acd1011503b757f21f34b2a943
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000046" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Зарубежные хиты HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/100/6b9ebc49462a522c04b0a288a1a0a40d496433de7bcb3a507d98ceaa8c3ec77b.m3u8?sig=aa5edcd4cc68c4069434f99cc98ed3fc701491c568da7bd15dfc55d7f4fdd00d
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="animal_world_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Звериный мир
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/47/dc15d49b40286486585956784046800a94c234a0c5f365efd144951b21b18d8e.m3u8?sig=b5bf7a31959ec18eafd30333a5bfc7586b5bfc7e83905cefb3b9eac6e0556caf
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000044" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Золотые зарубежные хиты HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/101/8c2c36bdd3a6118edb706f0afb576587b1463efafe8bd9b21b63b804405f6746.m3u8?sig=2f4eded330aabcac34b9f21903e93080049a1c8d8ed6df2021cd306c64d2ca13
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000047" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Игра(ТНТ) HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/102/7eea4e31c826d41696c09b9bd7d131ec2715fe9381d18fd39f6c903d89b107d4.m3u8?sig=2fc553c1753fa0b367bce9c95a00e604ed20de09a2d096c30b497e250ec9ef05
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000005" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Импровизаторы HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/103/d1baa1a9e7baac06125b42057bc93861aabe0f25fef6b30db867dd1b2d1b651d.m3u8?sig=0a06f0fbf0d97f2b1453d647cbde5bb2217a79866f128be8270490fef05423f7
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000014" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 1 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/104/71b41483bca246431d86e9f82d67e50e5e093767b0e096a36759013f03302caf.m3u8?sig=67fc786285784a86506362f935f878e09b11c71cff2f6d913a0eaaffb6507de1
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000028" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 10 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/105/0e8c6794fdaabcc73eaec5c990f4f3992d0f6d81f2f4942424a83571fbdd453e.m3u8?sig=84962b2b338778494f8ee513b1d0ee79b2e732057f9ee9aa22ad73986c33feb7
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000029" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 11 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/106/3306b848bb71d7bb925e0621a0f5d06e7d85475882f0c20c9914dee5fe8296e8.m3u8?sig=d1fad4cb648906c865aa9ed476fa7d19d6207e933152493688a51889c29ac993
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000030" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 12 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/107/c52d1796f05932790592e11fdd9bacba35576119258ea1326b11d0df59f0f5c4.m3u8?sig=a85e0ba8b34eac6d2b24d4986417299d20a44c889786e1445ef3a31f81f013b9
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000031" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 13 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/108/5e65e72aabdf20cc4a225cc5e99ab7aefce212ff9dd47682917679d44158afaf.m3u8?sig=357a5df92b5fd7c2c990b1316df9acc4d66541346e399f5b92d9dcad61111de3
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000032" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 14 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/109/43c93002caab1a16a743b305a11a1ff0091aee79e11e2bb5a35fb4e9c65de639.m3u8?sig=846fec895db3ee691ed6b05b66cc99b3de177cce16a29da9a3d7d222aa938dfb
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000033" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 15 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/110/54d7e834b1865fd4bb501324a04a84c7e49a3f98d5bce5578b4ca865a5d41408.m3u8?sig=bc216be1287d11fe3c05769036ffe4c35981a32a53ccf556345d6c85d4c9cd2b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000034" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 16 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/111/0abb2043a622aa84b6e27cd6bb2134b60e62a47328de2345c6e509dc8705aa28.m3u8?sig=31799f853ab5ebef0696c3a0bbeb12e81365cea42bb48df564b12dfffa5c2f44
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000035" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 17 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/112/d7675ba32ccbdb7daae78aa05ae5be5a218ab44519f6eb0ad0e856bf00284f54.m3u8?sig=9e8b8b56b15127c32377426ec4bbb1329b296382431d87bc80a4b5261d59b0e0
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000036" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 18 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/113/9d2cf3e4a642a9489f4e5f3ad295992c63bcfa0c5fef7369018b784efd88e57b.m3u8?sig=320938009fcd2f55fdf6b02c9211e064e2c3fd3706d13a9946dd493e4b5e369d
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000037" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 19 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/114/940119390bf1063156a43e1e44ead8a28f651ba07c9c6a8be2469d0177590db2.m3u8?sig=5dc90eaac905cdcbe4ffe608f229ad2001e377ee988e96b343ccb5b35fd6172b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000020" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 2 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/115/86b923ae35931148a93df208162126c93b98c3406d972fdd08f88b5e8d9fb49a.m3u8?sig=0227a1f3f6a7ff6b654f98f2910d487a5061d1961962879234276702d8589cdd
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000038" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 20 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/116/56fe0c216cab5ee787f3ecaacc496b42a02fc0440f330bd3885a8366b398e474.m3u8?sig=112b9b24d48861c45173a4064b7325d49763145cb2c2b968663b01f0eeef6082
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000039" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 21 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/117/46753d5c620390bfdf6a948b955b24222fef5f40c7c9e10ce96ec033ff28f237.m3u8?sig=92ea251f71e472d832dcd3370b0363f68c3830b568dcd24af2b32a12dda8c622
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000040" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 22 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/118/9c9a91a7eb2434a2a272f63bfcb27ffcb1a9c23a0eba552aebc4189b1f600157.m3u8?sig=ed7456eed6137ea0c83e497cf1f69e867027610c2a2dc38ba65ffb60fe3c16d9
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000015" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 23 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/119/4082d6305f12813a940c078e67bece4f4d9e8fc9fbf93d558ad264dd9add90cb.m3u8?sig=2f0b250a473b5c29ce24f944ed423d7afe6c5c2aa2c9e34cef325236dd2e7ec8
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000021" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 3 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/120/cbadfc74b0fc91745cdea62dbd25fdda4f63d566c90792864d64a57002005da9.m3u8?sig=41d1b558f088abd90d243d84042e800ec6b051db016b5ff3410e53431c76142c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000022" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 4 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/121/b89de82a44ca88c5e106370c11e7850655283ab6da44540e7240a2ecfc3b17f0.m3u8?sig=f4f0792e7c5cb1269ca77e49cde452f5ae1aad1989eddf282d158aeb4eb47068
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000023" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 5 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/122/ec9d082aa619ffef8436187ecd24df57758143a84c076af49933a3a32ea81882.m3u8?sig=ac7734c172cc5e80f9f53b4f3124df0dd1cb20de85eb5479147be2f0cc9d3cbf
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000024" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 6 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/123/78a9918bd138c8f8f25745563e2eb2be091238accc764c1c009e41fcaf6ec08c.m3u8?sig=4d1f2ac452b86bea9c944467bdc7c08e18b4951f5b698298c263881a54e94103
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000025" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 7 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/124/714ddd7517bc296440b2b238171f88ace3f098d5cf74def5b627bbcc45b7b9e9.m3u8?sig=10cd8a352d23c7bffe2b85c5da5673bafef6a947818cdfc4ed2aaaaaf1eb4743
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000026" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 8 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/125/8e926f461a314ba9a4974dcce527742323de5a5c6408529b164e0d9cafb69fc2.m3u8?sig=026320c108e24bab5c746abf4397475e2262c090bc38f737167ed57acd907d55
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000027" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Кинозал 9 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/126/988af76effc54f9d17317ba23ac336704ba45368ac9199a10daf85bdfbdf75b3.m3u8?sig=c7acd09d3e10b2df54818c1e496394348e974eb682f5aed9292bb18fd24e72a0
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="MovieNews" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X КиноНовинки
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/48/e88a773e177de3ac289bd2ef9be620bbf364b8c21d8323070f320abcdb5b69f3.m3u8?sig=710f7cf0cc6b68793ff347929c3373021c15eb8eb6dffb32e8dca7c255a10ccc
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="made_in_the_USSR_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X КиноСССР
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/49/90b5ab331c024afde04fce882cfdc3c6c481f11e78049c3f38b0b83fdb1ffcf5.m3u8?sig=15e37e29cbd60fd4a08b88264f3e8e4540d60e491784f780e2c7ab28bc11008d
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="movie_90s_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X КиноФраншизы
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/50/c75e3d633a8231d9f4451af0e6694211917d425532259ac81658a696da0fa558.m3u8?sig=32ad6ebe137affea7c69ff9f7139b482609df9a1e01e39a6f8aea782ec4e00ec
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="kinosharm_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Киношарм
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/51/b9599b0e23f030d5003c54c0bd46974ecbe89fdb33a3487e7e7a07ef535f4d5e.m3u8?sig=a2910e6979d562c41bae083f79be265111c47fbd0013f8f5dc34325203b90817
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="western_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Классика кино
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/52/c95bfc16f4b5821a6ce0609323b1ffc9a7766641ffc20516af7afb5aa7d7abc0.m3u8?sig=1e2275f1dd3b4d78711e424c82d62daded5c3af93cebd4c4fd4753da453d9918
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="comedy" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Комедия
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/53/37daf5b9325b2114ff0d3cd152249fff67826c610255e1a63324aadfbe1d4a93.m3u8?sig=7a132748fe179f66de4d73c6a5ddadc394566dc0508311ec455929137f08dc0a
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="comedy_vhs" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Комедия (VHS)
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/54/db0e97a362ecfa68313b4013b3ad9f2654ab68bff502dbfddbc03bebfec569f2.m3u8?sig=bf563a4e88eb0839e4c096b4ab12f3b0d0ffde7174d2251473434101388d6639
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="comedy_ssr_1_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Комедия СССР 1
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/55/440170a827b0ab775d671f5bf3b9d6dd169df58f2df0632edb5dda5524cec4a6.m3u8?sig=56bc35ebfee76ae2d1f51cbd0fe821ab052dfa88a5a96313f067a72c219fc996
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="comedy_ssr_2_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Комедия СССР 2
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/56/9149d55a533a74bcf3cb358aa4918ff630ae0b3e86bfbba75c42fa4405d62d22.m3u8?sig=d8f38ee67805fe4e0651c5645aeddd4beda22540e15b7a1b864b45a43bf9f548
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cosmosmir_4k2" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Космомир 2
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/57/355b964c509cb763392b5d7b0d94f002a663a0f8ba867e0fc68b9582ef0df7cf.m3u8?sig=1d3a14f2b6818b5e2813f58a3c7682e44b552e69790e0e8848bd465c3dc0bd16
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="cosmosmir_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Космос
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/58/e1016070435dbfe93f9c9ae379a0f39c8edfd971a51dd8aa0ce9aad486da2b14.m3u8?sig=4f1785726e059ec2862cf39fa612b28f38c55fc2839ad11834d9214e48fb87c7
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000007" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Легенды армии HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/127/4be02af52f7103fceaaf498aca5e8de68fdc570ac56aeccb447ddc36ded8d25c.m3u8?sig=86ef29a48c868b9ccabb946afa15b3b115fc22898360e0ff233f2abc2d4e365c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000008" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Между Нами HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/128/b26ca8b7ff795fab986b3b02b8d077f313d2061bd9bf7e3365ff2b66ee987a82.m3u8?sig=11c54a2e67a73ad2677f8e703a66ece52b9b97e543239a16bdf0b162e069c34c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="candid_fashion_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Мода ХХХ
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/59/99dc959da77185e6ac6d5ade52048e8d8d121ac4b644948639abb1b4f1eeda67.m3u8?sig=78e734142d2082b63868242e5ad0f10cec2065609b2651e7f8f4afd4d5a7fa54
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="youth_comedy4K_265" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Молодежные комедии
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/60/6a29e6f75fc04cd3d5a45e1083564b9ed665d8acbb95c9435dccffe7950b74bb.m3u8?sig=3a3ff1e1cf019f5cf0bb947f23689dffd68514e27f8dd52a1ece95073aea0538
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000056" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Музыка советского кино HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/129/789d4353bb1a0aa7a6ba942e4f0d7b8e3cb4bb05ef572df8d7c3c1c8da565b0d.m3u8?sig=82cec4f1dfbf64c17e01fef8c0a8d4399e1ce26e3ddea49e8e2a234b6c1042eb
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="Muzyka_Yaponii_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Музыка Японии UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/130/b61d7324692c46ab978fe00fe4e4a87e667d778dc061e6cd906a9784524d7f2a.m3u8?sig=9a40fc8081b2e2dd4582eb52e261c0b5d6b745d70dd118f2397a00ddd906f26e
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="multimir_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Мультимир
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/61/319147fff7cba1efa4b7c393f957ae19b403fdaeae8037dd3b5ccb39ca2f3979.m3u8?sig=bbfaf73bcf4bddbae3c8a5029ab201d9ba9f71deb70355f8d2aa06c9602ad1a3
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="childrens_cartoons_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Мультляндия
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/62/86b8239b839ff190a7d113570a2bbbd89ce0329db198863aa906cd46c761ad5f.m3u8?sig=3dd5edef8a6e9ececcead57658a4ecd2749ff794743e0863b19f8f545650f47b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="nachse_kino_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Наше кино
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/63/7b208fafaafa7615aea63dd6abc6c0a8228eba2f27468ac612318e64b352ef09.m3u8?sig=edf994cdf82e9268cf8113dce32dea200406129767d22bef9f3f37131918a673
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="orel_i_reshka_UHD" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Орёл и Решка UHD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/131/88cc78c1d96ae1dd6fc6b62d5dc3757319c34e4daf7191f4ded21e942c74a7d0.m3u8?sig=743812614522cce3fca81af2a448ba13700edfe965577c8d79ddd332755d39e2
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000017" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Пограничный HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/132/735e5e2d7cabe744ea0f17ffe304793b4ef6b492aa330b83fe2bb7ce62ae3de3.m3u8?sig=19dfe32a3e0530b2dc7ae88d933eb1e4d8b257fa23451948f53e877ded758279
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000010" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Последний Герой HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/133/55b219408cbe59831e66308bdc258d10051e702d4b102100b2b49c94a391ce3f.m3u8?sig=71f6090b5bc829a1378fdfadf42cfa57a161d3b3c4d32cbc545784bf29f34c35
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="adventures_4K" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Приключения
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/64/7200fa6f3142865b36cf965f856a7aee1929929580006b2cc609f3c0aa7311b4.m3u8?sig=b6a66f03243d3cc124944a69a542a78d76f20a0b4a516ec1fc3d7e718878529f
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000002" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Про Людей и Войну HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/134/19699511127c1b4adb6ab562414919661d13b05dd6e971efa65323e5b88d49b5.m3u8?sig=41cb0a17b958b33dc42ed6f782bec295d4e9612583d1d617684fd4ca9d4ed790
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="skazki_sssr_1" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ретро-Сказка 1
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/65/7b58e7822dd42f4c4ac4288010870b4152535eae9517b8f6378dc7a31d845929.m3u8?sig=ec51541b89224aefcfbf942052e28f27bfeb09bb8f11d68f6c10ea2ce4346da3
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="skazki_sssr_2" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ретро-Сказка 2
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/66/a8a54e067bae4f1358af5d28c343fb3df7040ace75ccb6fec08e98d9d630fe3b.m3u8?sig=a09cab9e9cc79ad6c58faf4097f1a195fe59545c210c92930604aa418c568b99
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000011" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Русская Дорога HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/136/7e975c733c3d2be7f72f8e795b6e1b3ff63401c256918e47b2e28e483448c374.m3u8?sig=c8adf303dfd9e7b805ff54689bfe5563d357da9a9a83ee91494572a490f55b39
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="military_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Русские сериалы
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/67/3d968024444689f08dd950a908d9d8a9fb0ed56980af2bf65b6e774444968b25.m3u8?sig=11b4e37cbdcffdf92d7b85ec76f7869267cc0665032586b6a298601000251597
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000045" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Русские хиты HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/137/51ee2e89c40249b33dfb765925f7cd85c2e87818a2fb534c4b6bbda6a14db728.m3u8?sig=8da8a3c301942ddee50edef24062cadcac506fa3e649c8074ec7529beb404364
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="family_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Семейный
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/68/8eaafef1f6552c2d00ba55a7ce7606a27b0209a72b6a52428d04325942a594fe.m3u8?sig=0840ad90ae026c2360cb715c6831d3b044fbadbca63a94b5db1057a2f9bac55a
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000048" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Советская эстрада HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/138/388dc9e64e34d5793b08a694a051d25466d3b120550e871e62a1c666a66071d7.m3u8?sig=2b179bcae67fd701bc28d8c0177a86c74d145a0f79eed5a6cdf58486eb7c2cdd
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="twilight_aether_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Сумеречный Эфир
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/69/3fec9447d4b4e963c7ed605446738651eddfedfeea141fecd2b9e818c51fa340.m3u8?sig=1ba7885519fa09247da9cee27c961796a675eac520bcf171e89b3f25b71c4829
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000001" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Тайны Чапман HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/139/e47f987b59fceaf280714044a83a57b83366722669adc189263046bc97bb5aa4.m3u8?sig=0a026c30bb9268530cc3b1a11f0db28198617c8de5e394047c183603837d1c8c
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="retro_hits_channel_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Театр
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/70/ff2ed8549cd60a8b2f2f3b15cdb3ba144b7cceb6f7e6f3116283b0bed6c255db.m3u8?sig=7b1ee20042033ba375c3372cab5ad80c1da6383b5e63a046e251cf27b6986d7e
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="triller_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Триллер
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/71/6080442932e9aff5e91f38948b19c0600110343586a2d59e4c2d7244f8bff3f4.m3u8?sig=40a9d5b4d90ab7f162696f99e48ce8da17f5a410ed07fa96e3d8c764d6bacebb
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="horrors" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ужасы
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/72/af041384026e7270217cbd69806466ccf49875cd63803bc199b77361f8dfd1db.m3u8?sig=bbbca511548632220bab931f563d2736a6fd744d8846b767de7694a0b60ba02d
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="stories_in_time_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ужасы (VHS)
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/73/0fd0e6e3d0eb07d0008d97c2568d614fb578575c255026d7f67be0fafea924ce.m3u8?sig=8877e1a1194a979b87aef408ec994f68e2b02db04c9221cdbfeded63b3e56e4a
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="uzasy_vhs_siries4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Ужасы VHS (siries)
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/74/9ed9eef916a1eacc1f2f8681712dbb480624b458efbd2ff0535882f2d22cc49c.m3u8?sig=fa0a5d237a6e2074effa02ab6590a6d4c058e914ae8bacc540f0388fda2aa576
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000052" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Украинский кинозал 1 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/140/36f178e13f0a4a58baeab17434bf07fef499ffeb921c9a8935580681245d5c30.m3u8?sig=44a90b708a25e47cf98d06953709cb5be6d01508cba6b6cd508c4a72ad1e0daa
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000053" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Украинский кинозал 2 HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/141/126362c6e18dbb0ecfe22f3e45ec8c268cd89fe89ebe9758f36ff56316f148bf.m3u8?sig=13ca35af212548355ff3dcf1f275cfb7a8d2bdca5a6e2bb0d30506f2fbc1d95d
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000012" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Уральские Пельмени HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/142/53ff951e20d48a4fca33cc24464ad426d5771be8912426e42db489f37017fa78.m3u8?sig=cb9abd16d0796e7b0f17827005b6c208b86b348e3bc244b63d75a33d823a720b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="fantastic" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Фантастика
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/75/33628517e5182254eec86ed0e195ea83a260a3b99f5177a0c9647f053a4f24e2.m3u8?sig=b851e45fe5cd629bed5b3472064f710cae24a90fdfa4961d60b29a55d4dece2e
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="fantastika_2" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Фантастика (siries)
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/76/83ee32c1bd0cc3d6b6752dda329558f1b14eddea4c9819281a84c34b0c527114.m3u8?sig=e2097dddf21f2497ff61d4477eed09e3782a6afe463eccbcbac6d1623d675eb1
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="fantasy_4k" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Фэнтези
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/77/4042857a35255f3dcb55d2ef35c7d952655aca2776914f86d77904f761dc35f7.m3u8?sig=6fdf2c6b528f488487276f68221abdc14146d625e25ae01e0bb5035962d206e0
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000043" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Хиты 80-х HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/143/3815b75abfd454ea1a6b6c30444b044011265d2599930f18c9797eece223b5b8.m3u8?sig=2627f78f46799ac6282cca102705b4e0f13b90a7685d7c4ab743ca99d30038d9
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000042" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Хиты 90-х HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/144/706e567521d3f25a43b53eeb44f397b34a98a1f5d76fc82c11c47ff7df3b8bdd.m3u8?sig=0ed8b0985c87884e52acfad86ff2dcf4118a96eef84dfdb74cdce8d29e00c99b
-#EXTINF:-1 group-title="Play-x UHD" tvg-id="000041" tvg-logo="http://138.16.142.39:2095/logo_play_x.png",Play-X Шансон HD
-http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/145/300d86094d5e5e4130c9a73160257d904c350bc953d72e867a39e6027da63186.m3u8?sig=5e37930e4e9ac5a330f8c6cb85f24b7a8e00515fea61d36bff3e335b10caad6c
 #EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg",Avia Stream
 http://iptv.prosto.tv:7000/ch306/video.m3u8
 #EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel
@@ -23875,14 +23489,10 @@ rtmp://vkvsd158.okcdn.ru/playback/10332204051428?stkn=hVx0kn1sfv1eSrGAlIcUsySgZk
 https://kgtv.online/live/7_kanal/0.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",AMAZON PRIME VIDEO MEN'S CLUB
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=uagq7qyIq4Aezo9xxqoWOA&e=2087404567&scheme=https
-#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",AMAZON PRIME VIDEO ROMANCE
-https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",APPLE TV Action Time
 https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=jRBAV1A5l_uTMotVPtUGbA&e=2088007796&scheme=https
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",APPLE TV MIX
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=ahuXGeS6k7qpWvoUD8XSmA&e=2089561706&scheme=https
-#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",APPLE TV Womens Stories
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Xjb5m-V_rhgqpU1n8eIFaA&e=2088007858&scheme=https
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png",BEASTARS
 rtmp://vkvsd18.okcdn.ru/playback/9992172940181?stkn=SamsTi1gvfQ5yT1-lbKxkPeyfEEQ8xjXvSGqsuTcm5fJXK1HOJmV8ReB82JCJWhCSGTqn7BGZXE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Big Bug Bunny
@@ -23905,6 +23515,8 @@ rtmp://vkvsd244.okcdn.ru/playback/14261855857452?stkn=bd-7IN0MylhlmR7LPl1fHpOLGn
 rtmp://vkvsd62.okcdn.ru/playback/15605286185795?stkn=0BfhzaS79rBPIuIp3ITDJ69MiJyoRjR4EFbewyaQ3Mgc8XQQP1HrUXEHAegtQLK3Wqxjdr4ma7JT&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Cartoon Network
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=2oTzk1BWdyzUBIPFky3iYg&e=2088776142&scheme=https
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",CriminalStories
+https://assimilator.tv/uploads/CriminalStories.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Dr_Coo
 http://kinowalk.hopto.org/dr_coo_live
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",DreakingDad
@@ -23915,12 +23527,20 @@ https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=O0
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ejq9WptLi-xHQUsbK9tDXg&e=2081697927&scheme=https
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",FGS
 http://kinowalk.hopto.org/dscb_live
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Filmoff
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.3OKSM82OFkLh.m3u8
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Flatmate
+https://assimilator.tv/uploads/FlatMate.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",FMC
 rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/p61PV0CV/image-22.png",Futurama
 rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Jetix Online
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",KA6AH
+https://assimilator.tv/uploads/KA6AH.m3u8
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Kin0ZALL
+https://assimilator.tv/uploads/KinoZall.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",KINO store
@@ -23931,6 +23551,8 @@ rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkS
 rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",lampovoeTV
 http://kinowalk.hopto.org/lampovoetv_live
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",LollyDragon
+https://assimilator.tv/uploads/LollyDragon.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Marvel Cinematic Universe
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=Zk-U5xs6PnXC_hrCvTQSIQ&e=2087765363&scheme=https
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Mayhеm
@@ -24051,6 +23673,14 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8h
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Латиноамериканские фильмы и сериалы
 https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=OP2mMP5tSJaWeLU7nzC4Vw&e=2090767230&scheme=https
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Лучшие драматические фильмы
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Xjb5m-V_rhgqpU1n8eIFaA&e=2088007858&scheme=https
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Лучшие комедийные сериалы
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Лучшие фантастические фильмы
+https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=uhwmkMiHbWul8lsiCXtZzQ&e=2093635301&scheme=https
+#EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Лучшие экшн фильмы
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=myQrAgKiGTDGhOF0qvWI-w&e=2093635375&scheme=https
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Мамонтенок ТВ
 https://venera.movify.tv/MamontRu/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",МЕГА КИНО КАНАЛ 🤣
