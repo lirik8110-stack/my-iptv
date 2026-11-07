@@ -1,11 +1,11 @@
 файл: playlist.m3u
-обновлено: 2026-11-06 01:25 UTC
-каналов: 12530
+обновлено: 2026-11-07 00:43 UTC
+каналов: 9430
 
 источники:
 ok     1431  https://satexpresstv.ru/apk/setv.m3u
-ok     3386  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
+ok     3376  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 ok     3729  https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
-ok      238  https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
-ok     8204  https://gclnk.com/lf4JtBLc
-итог: 12530 каналов, дублей убрано 2515, мусорных ссылок 1933, сокращено 0, мёртвых отброшено 0, 4.8 с
+ok      288  https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
+ok     5016  https://gclnk.com/lf4JtBLc
+итог: 9430 каналов, дублей убрано 2465, мусорных ссылок 1938, сокращено 0, мёртвых отброшено 0, 4.8 с
