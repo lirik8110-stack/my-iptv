@@ -52,12 +52,10 @@ http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ТВ",Моя стихия (резерв)
 http://212.15.51.20:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10386/logo_256_1658737079.png",Неизвестная планета
-https://mhd116.iptv2022.com/x/OTYjt7BSjn2xfbNFrvjU9A,1794341132/streaming/np/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+https://mhd116.iptv2022.com/x/cSa-pMM9nXjp2P4fAAjabg,1794426707/streaming/np/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
 #EXTINF:-1 group-title="ТВ",Неизвестная планета (резерв)
 http://192.162.64.99:5100/play/a02t/index.m3u8
 #EXTINF:-1 group-title="ТВ",НТВ
-http://194.152.35.17/ntv/index.m3u8
-#EXTINF:-1 group-title="ТВ",НТВ (резерв)
 http://195.64.140.147:10004/994
 #EXTINF:-1 group-title="ТВ" tvg-id="ntv-serial",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
@@ -72,7 +70,7 @@ http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв)
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10290/logo_256_1658737599.png",Советское кино
-https://mhd116.iptv2022.com/x/CptMI1yjMNpXvp7DkrHmgA,1794341132/streaming/sovietmovs/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
+https://mhd116.iptv2022.com/x/uWy7gHQaMd-0gPaybpiRKQ,1794426707/streaming/sovietmovs/324/1/index.m3u8?bundle=appBundle&app_name=appName&ifa=idfa&device_id=did
 #EXTINF:-1 group-title="ТВ",Советское кино (резерв 3)
 http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869525&extension=ts
 #EXTINF:-1 group-title="ТВ",Советское кино (резерв)
