@@ -1,11 +1,11 @@
 файл: playlist-tv-verified.m3u
-обновлено: 2026-11-17 03:30 UTC
+обновлено: 2026-11-18 02:47 UTC
 каналов: 661
 
 источники:
 ok     1431  https://satexpresstv.ru/apk/setv.m3u
-ok     3014  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
+ok     3016  https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 ok     3729  https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m3u
 ok      317  https://raw.githubusercontent.com/artem-art998/IPTVru/refs/heads/main/iptv126.m3u
-ok     5185  https://gclnk.com/lf4JtBLc
-итог: 661 каналов, дублей убрано 268, мусорных ссылок 1946, сокращено 0, мёртвых отброшено 0, 4.7 с
+ok     5172  https://gclnk.com/lf4JtBLc
+итог: 661 каналов, дублей убрано 268, мусорных ссылок 1946, сокращено 0, мёртвых отброшено 0, 3.6 с
