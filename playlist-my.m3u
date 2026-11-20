@@ -48,7 +48,7 @@ http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="ТВ",Моя Планета (резерв)
 http://195.64.140.147:10161/161
 #EXTINF:-1 group-title="ТВ",Моя стихия
-http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 group-title="ТВ",Моя стихия (резерв)
 http://212.15.51.20:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="ТВ",Неизвестная Планета
@@ -69,7 +69,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="ТВ",Ретро ТВ (резерв)
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="ТВ" tvg-logo="https://i.ibb.co/BS4m2tT/WEWEWEWE.png",Советское кино
+#EXTINF:-1 group-title="ТВ" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="ТВ",Советское кино (резерв 3)
 http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869525&extension=ts
